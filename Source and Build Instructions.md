@@ -1,4 +1,6 @@
-# Source
+# Source and Build Instructions
+
+## Source
 
  * [Natural Earth](http://www.naturalearthdata.com/)
    * Format: ESRI shapefile
@@ -6,7 +8,7 @@
    * System: WGS84
    * License: Public domain
 
-## Building from source
+## Build Instructions
 
  1. Get the following `.zip` files from [Natural Earth](http://www.naturalearthdata.com/):
     * `ne_10m_admin_0_countries`
@@ -164,7 +166,7 @@ ALTER TABLE cities
   CHANGE `ADM0NAME` `country` VARCHAR(32) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   CHANGE `ADM0_A3` `country_iso_alpha3` VARCHAR(3) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   CHANGE `ADM1NAME` `region` VARCHAR(43) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
-  CHANGE `TIMEZONE` `time_zone` VARCHAR(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL; 
+  CHANGE `TIMEZONE` `time_zone` VARCHAR(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
 ```
 
 ### `countries`
@@ -366,7 +368,7 @@ ALTER TABLE regions
 ALTER TABLE `regions`
   CHANGE `iso_a2` `iso_alpha2` VARCHAR(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   CHANGE `adm0_a3` `country_iso_alpha3` VARCHAR(3) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
-  CHANGE `admin` `country` VARCHAR(36) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL; 
+  CHANGE `admin` `country` VARCHAR(36) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
 ```
 
 ### `roads`

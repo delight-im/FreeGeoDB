@@ -1,4 +1,4 @@
-# Resources
+# Working with Geospatial Data
 
  * [OpenStreetMap](https://www.openstreetmap.org/)
    * [Full downloads](http://planet.openstreetmap.org/)

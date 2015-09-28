@@ -38,7 +38,7 @@
 	```
 
  6. Create a new MySQL database with charset `utf8` and collation `utf8_general_ci`
- 7. Import the CSV files into the empty MySQL database and, for every file, specify that the first row contains the column names
+ 7. Import the CSV files into the empty MySQL database and, for every file, specify that the input charset is `windows-1252` and the first row contains the column names
  8. Rename the new tables from their auto-generated names to the name of the CSV file and change the storage engine to `MyISAM`
  9. Execute the table-specific MySQL commands given below
 

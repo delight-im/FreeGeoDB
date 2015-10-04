@@ -20,6 +20,14 @@ Free database of geographic place names and corresponding geospatial data
  * [JSON](Distribution/JSON/)
  * [MySQL](Distribution/MySQL/)
 
+## Authoritative data source
+
+The single authoritative source for all data is in [`Source/json`](Source/json).
+
+If you want to make any changes, please apply them in that folder only.
+
+All other data files are generated from the files in that authoritative set.
+
 ## Contributing
 
 All contributions are welcome! If you wish to contribute, please create an issue first so that your feature, problem or question can be discussed.

@@ -1,0 +1,5407 @@
+[
+    {
+        "id": 1,
+        "coordinates_wkt": "POINT (-69.92355713 12.4375)",
+        "name": "Sint Nicolaas"
+    },
+    {
+        "id": 2,
+        "coordinates_wkt": "POINT (-58.95141343 -34.15333333)",
+        "name": "Campana"
+    },
+    {
+        "id": 3,
+        "coordinates_wkt": "POINT (-59.004947 -34.09888889)",
+        "name": "Zarate"
+    },
+    {
+        "id": 4,
+        "coordinates_wkt": "POINT (-62.10088339 -38.89444444)",
+        "name": "Puerto Belgrano\/Bahia Blanca"
+    },
+    {
+        "id": 5,
+        "coordinates_wkt": "POINT (-62.30053004 -38.78305556)",
+        "name": "Puerto Galvan\/Bahia Blanca"
+    },
+    {
+        "id": 6,
+        "coordinates_wkt": "POINT (-62.25989399 -38.79194444)",
+        "name": "Ingeniero White\/Bahia Blanca"
+    },
+    {
+        "id": 7,
+        "coordinates_wkt": "POINT (-61.85229682 17.12277778)",
+        "name": "Saint John's"
+    },
+    {
+        "id": 8,
+        "coordinates_wkt": "POINT (115.7381037 -32.0475)",
+        "name": "Fremantle"
+    },
+    {
+        "id": 9,
+        "coordinates_wkt": "POINT (151.2095406 -33.97305556)",
+        "name": "Botany Bay"
+    },
+    {
+        "id": 10,
+        "coordinates_wkt": "POINT (151.2842167 -23.85111111)",
+        "name": "Rockhampton"
+    },
+    {
+        "id": 11,
+        "coordinates_wkt": "POINT (2.93368669 51.23)",
+        "name": "Oostende (Ostend)"
+    },
+    {
+        "id": 12,
+        "coordinates_wkt": "POINT (3.20459364 51.33638889)",
+        "name": "Zeebrugge"
+    },
+    {
+        "id": 13,
+        "coordinates_wkt": "POINT (27.45830389 42.47)",
+        "name": "Burgas"
+    },
+    {
+        "id": 14,
+        "coordinates_wkt": "POINT (50.60759717 26.19861111)",
+        "name": "Mina Sulman Port"
+    },
+    {
+        "id": 15,
+        "coordinates_wkt": "POINT (50.65883392 26.15861111)",
+        "name": "Sitrah"
+    },
+    {
+        "id": 16,
+        "coordinates_wkt": "POINT (-64.67302709 32.37944444)",
+        "name": "Saint George"
+    },
+    {
+        "id": 17,
+        "coordinates_wkt": "POINT (-38.47320377 -3.7075)",
+        "name": "Mucuripe"
+    },
+    {
+        "id": 18,
+        "coordinates_wkt": "POINT (-43.1246172 -22.87916667)",
+        "name": "Niteroi"
+    },
+    {
+        "id": 19,
+        "coordinates_wkt": "POINT (-48.63545347 -26.23805556)",
+        "name": "Sao Francisco do Sul"
+    },
+    {
+        "id": 20,
+        "coordinates_wkt": "POINT (-65.46772674 47.03444444)",
+        "name": "Chatham"
+    },
+    {
+        "id": 21,
+        "coordinates_wkt": "POINT (-53.95689046 48.16333333)",
+        "name": "Clarenville"
+    },
+    {
+        "id": 22,
+        "coordinates_wkt": "POINT (-124.9244405 49.67083333)",
+        "name": "Comox"
+    },
+    {
+        "id": 23,
+        "coordinates_wkt": "POINT (-123.4343934 48.43638889)",
+        "name": "Esquimalt"
+    },
+    {
+        "id": 24,
+        "coordinates_wkt": "POINT (-55.75106007 47.10027778)",
+        "name": "Grand Bank"
+    },
+    {
+        "id": 25,
+        "coordinates_wkt": "POINT (-60.2393404 46.20888889)",
+        "name": "North Sydney"
+    },
+    {
+        "id": 26,
+        "coordinates_wkt": "POINT (-64.9246172 47.79638889)",
+        "name": "Caraquet"
+    },
+    {
+        "id": 27,
+        "coordinates_wkt": "POINT (-71.05265018 48.43)",
+        "name": "Chicoutimi"
+    },
+    {
+        "id": 28,
+        "coordinates_wkt": "POINT (-57.93633687 48.96055556)",
+        "name": "Corner Brook"
+    },
+    {
+        "id": 29,
+        "coordinates_wkt": "POINT (-65.75229682 44.62527778)",
+        "name": "Digby"
+    },
+    {
+        "id": 30,
+        "coordinates_wkt": "POINT (-53.21702002 47.69027778)",
+        "name": "Harbour Grace"
+    },
+    {
+        "id": 31,
+        "coordinates_wkt": "POINT (-62.70441696 45.67472222)",
+        "name": "Pictou"
+    },
+    {
+        "id": 32,
+        "coordinates_wkt": "POINT (-65.31772674 43.74972222)",
+        "name": "Shelburne"
+    },
+    {
+        "id": 33,
+        "coordinates_wkt": "POINT (-73.11808009 46.04111111)",
+        "name": "Sorel"
+    },
+    {
+        "id": 34,
+        "coordinates_wkt": "POINT (-56.05989399 49.49972222)",
+        "name": "Springdale"
+    },
+    {
+        "id": 35,
+        "coordinates_wkt": "POINT (-52.69234393 47.5625)",
+        "name": "Saint-John's"
+    },
+    {
+        "id": 36,
+        "coordinates_wkt": "POINT (-73.15335689 -37.02833333)",
+        "name": "Coronel"
+    },
+    {
+        "id": 37,
+        "coordinates_wkt": "POINT (-73.15848057 -37.09805556)",
+        "name": "Lota"
+    },
+    {
+        "id": 38,
+        "coordinates_wkt": "POINT (-73.10229682 -36.70527778)",
+        "name": "Talcahuano"
+    },
+    {
+        "id": 39,
+        "coordinates_wkt": "POINT (-71.61808009 -33.5875)",
+        "name": "San Antonio"
+    },
+    {
+        "id": 40,
+        "coordinates_wkt": "POINT (121.4418139 28.69027778)",
+        "name": "Haimen"
+    },
+    {
+        "id": 41,
+        "coordinates_wkt": "POINT (119.5859835 39.90666667)",
+        "name": "Qinhuangdao"
+    },
+    {
+        "id": 42,
+        "coordinates_wkt": "POINT (114.26702 22.57416667)",
+        "name": "Yantian"
+    },
+    {
+        "id": 43,
+        "coordinates_wkt": "POINT (122.2351001 40.69583333)",
+        "name": "Yingkou"
+    },
+    {
+        "id": 44,
+        "coordinates_wkt": "POINT (-83.07408716 10.00555556)",
+        "name": "Moin"
+    },
+    {
+        "id": 45,
+        "coordinates_wkt": "POINT (-75.70335689 20.91916667)",
+        "name": "Banes"
+    },
+    {
+        "id": 46,
+        "coordinates_wkt": "POINT (-79.46931684 22.52916667)",
+        "name": "Caibarien"
+    },
+    {
+        "id": 47,
+        "coordinates_wkt": "POINT (-80.00759717 22.94027778)",
+        "name": "Isabela de Sagua"
+    },
+    {
+        "id": 48,
+        "coordinates_wkt": "POINT (-77.23951708 21.56305556)",
+        "name": "Nuevitas"
+    },
+    {
+        "id": 49,
+        "coordinates_wkt": "POINT (33.94004711 35.12777778)",
+        "name": "Famagusta"
+    },
+    {
+        "id": 50,
+        "coordinates_wkt": "POINT (8.707243816 53.86472222)",
+        "name": "Cuxhaven"
+    },
+    {
+        "id": 51,
+        "coordinates_wkt": "POINT (9.835806832 54.47361111)",
+        "name": "Eckernforde"
+    },
+    {
+        "id": 52,
+        "coordinates_wkt": "POINT (8.489517079 53.4875)",
+        "name": "Nordenham"
+    },
+    {
+        "id": 53,
+        "coordinates_wkt": "POINT (7.368963486 53.09638889)",
+        "name": "Papenburg"
+    },
+    {
+        "id": 54,
+        "coordinates_wkt": "POINT (11.43916372 53.90638889)",
+        "name": "Wismar"
+    },
+    {
+        "id": 55,
+        "coordinates_wkt": "POINT (10.80689046 55.29888889)",
+        "name": "Nyborg"
+    },
+    {
+        "id": 56,
+        "coordinates_wkt": "POINT (12.61702002 56.03444444)",
+        "name": "Helsingor"
+    },
+    {
+        "id": 57,
+        "coordinates_wkt": "POINT (10.52497055 55.46638889)",
+        "name": "Odense"
+    },
+    {
+        "id": 58,
+        "coordinates_wkt": "POINT (10.78810365 55.30694444)",
+        "name": "Nyborg"
+    },
+    {
+        "id": 59,
+        "coordinates_wkt": "POINT (10.54146054 57.43777778)",
+        "name": "Frederikshavn"
+    },
+    {
+        "id": 60,
+        "coordinates_wkt": "POINT (9.504416961 55.25111111)",
+        "name": "Haderslev"
+    },
+    {
+        "id": 61,
+        "coordinates_wkt": "POINT (9.868433451 55.85416667)",
+        "name": "Horsens"
+    },
+    {
+        "id": 62,
+        "coordinates_wkt": "POINT (11.08598351 55.66944444)",
+        "name": "Kalundborg"
+    },
+    {
+        "id": 63,
+        "coordinates_wkt": "POINT (9.493404005 55.49277778)",
+        "name": "Kolding"
+    },
+    {
+        "id": 64,
+        "coordinates_wkt": "POINT (11.12108363 54.83222222)",
+        "name": "Nakskov"
+    },
+    {
+        "id": 65,
+        "coordinates_wkt": "POINT (11.85706714 54.77083333)",
+        "name": "Nykobing Falster"
+    },
+    {
+        "id": 66,
+        "coordinates_wkt": "POINT (10.05265018 56.46027778)",
+        "name": "Randers"
+    },
+    {
+        "id": 67,
+        "coordinates_wkt": "POINT (10.704947 54.93972222)",
+        "name": "Rudkobing"
+    },
+    {
+        "id": 68,
+        "coordinates_wkt": "POINT (10.61702002 55.05861111)",
+        "name": "Svendborg"
+    },
+    {
+        "id": 69,
+        "coordinates_wkt": "POINT (9.551943463 55.70555556)",
+        "name": "Vejle"
+    },
+    {
+        "id": 70,
+        "coordinates_wkt": "POINT (10.58881037 57.71861111)",
+        "name": "Skagen"
+    },
+    {
+        "id": 71,
+        "coordinates_wkt": "POINT (-70.70053004 19.80361111)",
+        "name": "Puerto Plata"
+    },
+    {
+        "id": 72,
+        "coordinates_wkt": "POINT (-70.01808009 18.42027778)",
+        "name": "Rio Haina"
+    },
+    {
+        "id": 73,
+        "coordinates_wkt": "POINT (0.071260306 35.93444444)",
+        "name": "Mostaganem"
+    },
+    {
+        "id": 74,
+        "coordinates_wkt": "POINT (31.75918728 31.46666667)",
+        "name": "Damietta"
+    },
+    {
+        "id": 75,
+        "coordinates_wkt": "POINT (33.94128386 26.74222222)",
+        "name": "Safaga"
+    },
+    {
+        "id": 76,
+        "coordinates_wkt": "POINT (-5.400353357 36.14777778)",
+        "name": "Algeciras"
+    },
+    {
+        "id": 77,
+        "coordinates_wkt": "POINT (-5.920023557 43.57861111)",
+        "name": "Aviles"
+    },
+    {
+        "id": 78,
+        "coordinates_wkt": "POINT (-8.250883392 43.47972222)",
+        "name": "Ferrol"
+    },
+    {
+        "id": 79,
+        "coordinates_wkt": "POINT (-6.935806832 37.19277778)",
+        "name": "Huelva"
+    },
+    {
+        "id": 80,
+        "coordinates_wkt": "POINT (-1.918786808 43.32333333)",
+        "name": "Pasajes"
+    },
+    {
+        "id": 81,
+        "coordinates_wkt": "POINT (-6.334570082 36.61944444)",
+        "name": "Rota"
+    },
+    {
+        "id": 82,
+        "coordinates_wkt": "POINT (-6.258833922 36.52)",
+        "name": "Cadiz"
+    },
+    {
+        "id": 83,
+        "coordinates_wkt": "POINT (26.9418139 60.46111111)",
+        "name": "Kotka"
+    },
+    {
+        "id": 84,
+        "coordinates_wkt": "POINT (24.61666667 65.68305556)",
+        "name": "Veitsiluoto"
+    },
+    {
+        "id": 85,
+        "coordinates_wkt": "POINT (-1.142343934 44.65916667)",
+        "name": "Arcachon"
+    },
+    {
+        "id": 86,
+        "coordinates_wkt": "POINT (0.073380448 49.36583333)",
+        "name": "Deauville"
+    },
+    {
+        "id": 87,
+        "coordinates_wkt": "POINT (0.369493522 49.76194444)",
+        "name": "Fecamp"
+    },
+    {
+        "id": 88,
+        "coordinates_wkt": "POINT (-1.223910483 46.15722222)",
+        "name": "La Pallice"
+    },
+    {
+        "id": 89,
+        "coordinates_wkt": "POINT (-2.022850412 48.64444444)",
+        "name": "Saint-Malo"
+    },
+    {
+        "id": 90,
+        "coordinates_wkt": "POINT (3.71024735 43.40472222)",
+        "name": "Sete"
+    },
+    {
+        "id": 91,
+        "coordinates_wkt": "POINT (-4.756713781 55.95472222)",
+        "name": "Greenock"
+    },
+    {
+        "id": 92,
+        "coordinates_wkt": "POINT (-1.986513545 50.71444444)",
+        "name": "Poole"
+    },
+    {
+        "id": 93,
+        "coordinates_wkt": "POINT (-5.053533569 50.15277778)",
+        "name": "Falmouth"
+    },
+    {
+        "id": 94,
+        "coordinates_wkt": "POINT (-3.171790342 55.9825)",
+        "name": "Leith"
+    },
+    {
+        "id": 95,
+        "coordinates_wkt": "POINT (-2.467903416 56.70444444)",
+        "name": "Montrose"
+    },
+    {
+        "id": 96,
+        "coordinates_wkt": "POINT (-2.984746761 51.55888889)",
+        "name": "Newport"
+    },
+    {
+        "id": 97,
+        "coordinates_wkt": "POINT (-1.356183746 54.90694444)",
+        "name": "Sunderland"
+    },
+    {
+        "id": 98,
+        "coordinates_wkt": "POINT (-1.157067138 54.60805556)",
+        "name": "Teesport"
+    },
+    {
+        "id": 99,
+        "coordinates_wkt": "POINT (41.65282686 42.155)",
+        "name": "Poti"
+    },
+    {
+        "id": 100,
+        "coordinates_wkt": "POINT (23.6565371 37.93722222)",
+        "name": "Piraeus"
+    },
+    {
+        "id": 101,
+        "coordinates_wkt": "POINT (23.63368669 37.94111111)",
+        "name": "Piraeus"
+    },
+    {
+        "id": 102,
+        "coordinates_wkt": "POINT (23.64305065 37.93444444)",
+        "name": "Piraeus"
+    },
+    {
+        "id": 103,
+        "coordinates_wkt": "POINT (-61.75053004 12.04722222)",
+        "name": "Saint George's"
+    },
+    {
+        "id": 104,
+        "coordinates_wkt": "POINT (-52.27196702 4.853055556)",
+        "name": "Cayenne"
+    },
+    {
+        "id": 105,
+        "coordinates_wkt": "POINT (14.54075383 45.29972222)",
+        "name": "Bakar"
+    },
+    {
+        "id": 106,
+        "coordinates_wkt": "POINT (13.63492344 45.08055556)",
+        "name": "Rovinj"
+    },
+    {
+        "id": 107,
+        "coordinates_wkt": "POINT (15.89163722 43.72638889)",
+        "name": "Sibenik"
+    },
+    {
+        "id": 108,
+        "coordinates_wkt": "POINT (-72.70371025 19.44833333)",
+        "name": "Gonaives"
+    },
+    {
+        "id": 109,
+        "coordinates_wkt": "POINT (131.2425206 -0.876944444)",
+        "name": "Sorong"
+    },
+    {
+        "id": 110,
+        "coordinates_wkt": "POINT (76.31042403 9.491944444)",
+        "name": "Alleppey"
+    },
+    {
+        "id": 111,
+        "coordinates_wkt": "POINT (82.2746172 16.97777778)",
+        "name": "Kakinada"
+    },
+    {
+        "id": 112,
+        "coordinates_wkt": "POINT (78.18704358 8.758333333)",
+        "name": "Tuticorin"
+    },
+    {
+        "id": 113,
+        "coordinates_wkt": "POINT (-8.471260306 54.27166667)",
+        "name": "Sligo"
+    },
+    {
+        "id": 114,
+        "coordinates_wkt": "POINT (13.93828033 37.09027778)",
+        "name": "Licata"
+    },
+    {
+        "id": 115,
+        "coordinates_wkt": "POINT (8.30795053 40.56277778)",
+        "name": "Alghero"
+    },
+    {
+        "id": 116,
+        "coordinates_wkt": "POINT (14.16007067 40.80333333)",
+        "name": "Bagnoli"
+    },
+    {
+        "id": 117,
+        "coordinates_wkt": "POINT (16.28775029 41.32555556)",
+        "name": "Barletta"
+    },
+    {
+        "id": 118,
+        "coordinates_wkt": "POINT (17.95600707 40.64638889)",
+        "name": "Brindisi"
+    },
+    {
+        "id": 119,
+        "coordinates_wkt": "POINT (17.12338045 39.08611111)",
+        "name": "Crotone"
+    },
+    {
+        "id": 120,
+        "coordinates_wkt": "POINT (17.97567727 40.05583333)",
+        "name": "Gallipoli"
+    },
+    {
+        "id": 121,
+        "coordinates_wkt": "POINT (8.026914016 43.88277778)",
+        "name": "Imperia"
+    },
+    {
+        "id": 122,
+        "coordinates_wkt": "POINT (9.409363958 41.21333333)",
+        "name": "La Maddalena"
+    },
+    {
+        "id": 123,
+        "coordinates_wkt": "POINT (9.850353357 44.08722222)",
+        "name": "La Spezia"
+    },
+    {
+        "id": 124,
+        "coordinates_wkt": "POINT (12.43545347 37.78972222)",
+        "name": "Marsala"
+    },
+    {
+        "id": 125,
+        "coordinates_wkt": "POINT (15.55918728 38.20027778)",
+        "name": "Messina"
+    },
+    {
+        "id": 126,
+        "coordinates_wkt": "POINT (16.58775029 41.20833333)",
+        "name": "Molfetta"
+    },
+    {
+        "id": 127,
+        "coordinates_wkt": "POINT (13.55265018 45.78861111)",
+        "name": "Monfalcone"
+    },
+    {
+        "id": 128,
+        "coordinates_wkt": "POINT (17.30035336 40.95611111)",
+        "name": "Monopoli"
+    },
+    {
+        "id": 129,
+        "coordinates_wkt": "POINT (12.9024735 43.92083333)",
+        "name": "Pesaro"
+    },
+    {
+        "id": 130,
+        "coordinates_wkt": "POINT (8.392167256 40.84361111)",
+        "name": "Porto Torres"
+    },
+    {
+        "id": 131,
+        "coordinates_wkt": "POINT (12.25035336 44.46222222)",
+        "name": "Ravenna"
+    },
+    {
+        "id": 132,
+        "coordinates_wkt": "POINT (15.28757362 37.06611111)",
+        "name": "Siracusa"
+    },
+    {
+        "id": 133,
+        "coordinates_wkt": "POINT (17.18898704 40.48805556)",
+        "name": "Taranto"
+    },
+    {
+        "id": 134,
+        "coordinates_wkt": "POINT (14.44287397 40.75)",
+        "name": "Torre Annunziata"
+    },
+    {
+        "id": 135,
+        "coordinates_wkt": "POINT (129.9503534 32.90166667)",
+        "name": "Omura"
+    },
+    {
+        "id": 136,
+        "coordinates_wkt": "POINT (135.3833333 34.69138889)",
+        "name": "Amagasaki"
+    },
+    {
+        "id": 137,
+        "coordinates_wkt": "POINT (137.1084806 36.77583333)",
+        "name": "Fushiki"
+    },
+    {
+        "id": 138,
+        "coordinates_wkt": "POINT (133.0061837 34.06805556)",
+        "name": "Imabari"
+    },
+    {
+        "id": 139,
+        "coordinates_wkt": "POINT (132.2352768 34.17694444)",
+        "name": "Iwakuni"
+    },
+    {
+        "id": 140,
+        "coordinates_wkt": "POINT (135.188457 34.15305556)",
+        "name": "Kainan"
+    },
+    {
+        "id": 141,
+        "coordinates_wkt": "POINT (136.6065371 36.61694444)",
+        "name": "Kanazawa"
+    },
+    {
+        "id": 142,
+        "coordinates_wkt": "POINT (139.7437574 35.50638889)",
+        "name": "Kawasaki"
+    },
+    {
+        "id": 143,
+        "coordinates_wkt": "POINT (130.8735571 33.90833333)",
+        "name": "Kokura"
+    },
+    {
+        "id": 144,
+        "coordinates_wkt": "POINT (135.3852768 35.48166667)",
+        "name": "Maizuru"
+    },
+    {
+        "id": 145,
+        "coordinates_wkt": "POINT (136.5533569 34.60805556)",
+        "name": "Matsusaka"
+    },
+    {
+        "id": 146,
+        "coordinates_wkt": "POINT (135.193404 35.54333333)",
+        "name": "Miyazu"
+    },
+    {
+        "id": 147,
+        "coordinates_wkt": "POINT (140.9540636 42.33583333)",
+        "name": "Muroran"
+    },
+    {
+        "id": 148,
+        "coordinates_wkt": "POINT (139.1247939 37.955)",
+        "name": "Niigata"
+    },
+    {
+        "id": 149,
+        "coordinates_wkt": "POINT (131.8693168 33.25138889)",
+        "name": "Saganoseki"
+    },
+    {
+        "id": 150,
+        "coordinates_wkt": "POINT (129.7077739 33.15694444)",
+        "name": "Sasebo"
+    },
+    {
+        "id": 151,
+        "coordinates_wkt": "POINT (138.509894 35.01444444)",
+        "name": "Shimizu"
+    },
+    {
+        "id": 152,
+        "coordinates_wkt": "POINT (135.1333333 34.11638889)",
+        "name": "Shimotsu"
+    },
+    {
+        "id": 153,
+        "coordinates_wkt": "POINT (135.1270907 34.22305556)",
+        "name": "Wakayama"
+    },
+    {
+        "id": 154,
+        "coordinates_wkt": "POINT (139.654417 35.30444444)",
+        "name": "Yokosuka"
+    },
+    {
+        "id": 155,
+        "coordinates_wkt": "POINT (80.22497055 6.033333333)",
+        "name": "Galle"
+    },
+    {
+        "id": 156,
+        "coordinates_wkt": "POINT (21.53704358 57.40305556)",
+        "name": "Ventspils"
+    },
+    {
+        "id": 157,
+        "coordinates_wkt": "POINT (-92.65212014 18.53027778)",
+        "name": "Frontera"
+    },
+    {
+        "id": 158,
+        "coordinates_wkt": "POINT (-94.53457008 17.97583333)",
+        "name": "Minatitlan"
+    },
+    {
+        "id": 159,
+        "coordinates_wkt": "POINT (-94.40053004 18.1275)",
+        "name": "Pajaritos"
+    },
+    {
+        "id": 160,
+        "coordinates_wkt": "POINT (-112.2584806 27.33916667)",
+        "name": "Santa Rosalia"
+    },
+    {
+        "id": 161,
+        "coordinates_wkt": "POINT (-89.67055359 21.31361111)",
+        "name": "Progreso"
+    },
+    {
+        "id": 162,
+        "coordinates_wkt": "POINT (-97.37055359 20.94055556)",
+        "name": "Tuxpan"
+    },
+    {
+        "id": 163,
+        "coordinates_wkt": "POINT (103.4591873 4.249444444)",
+        "name": "Kemaman"
+    },
+    {
+        "id": 164,
+        "coordinates_wkt": "POINT (4.78368669 52.95805556)",
+        "name": "Den Helder"
+    },
+    {
+        "id": 165,
+        "coordinates_wkt": "POINT (4.651413428 51.80583333)",
+        "name": "Dordrecht"
+    },
+    {
+        "id": 166,
+        "coordinates_wkt": "POINT (6.955477032 53.32055556)",
+        "name": "Delfzijl"
+    },
+    {
+        "id": 167,
+        "coordinates_wkt": "POINT (8.757420495 58.45416667)",
+        "name": "Arendal"
+    },
+    {
+        "id": 168,
+        "coordinates_wkt": "POINT (10.22497055 59.73666667)",
+        "name": "Drammen"
+    },
+    {
+        "id": 169,
+        "coordinates_wkt": "POINT (11.37532391 59.11805556)",
+        "name": "Halden"
+    },
+    {
+        "id": 170,
+        "coordinates_wkt": "POINT (16.54163722 68.78916667)",
+        "name": "Harstad"
+    },
+    {
+        "id": 171,
+        "coordinates_wkt": "POINT (10.02550059 59.04527778)",
+        "name": "Larvik"
+    },
+    {
+        "id": 172,
+        "coordinates_wkt": "POINT (10.65282686 59.43222222)",
+        "name": "Moss"
+    },
+    {
+        "id": 173,
+        "coordinates_wkt": "POINT (10.22497055 59.12361111)",
+        "name": "Sandefjord"
+    },
+    {
+        "id": 174,
+        "coordinates_wkt": "POINT (10.404947 59.265)",
+        "name": "Tonsberg"
+    },
+    {
+        "id": 175,
+        "coordinates_wkt": "POINT (172.7102473 -43.60611111)",
+        "name": "Lyttelton"
+    },
+    {
+        "id": 176,
+        "coordinates_wkt": "POINT (59.42055359 22.65666667)",
+        "name": "Qalhat"
+    },
+    {
+        "id": 177,
+        "coordinates_wkt": "POINT (56.73792697 24.37833333)",
+        "name": "Sohar"
+    },
+    {
+        "id": 178,
+        "coordinates_wkt": "POINT (-79.56878681 8.955555556)",
+        "name": "Balboa"
+    },
+    {
+        "id": 179,
+        "coordinates_wkt": "POINT (-79.90477032 9.350277778)",
+        "name": "Cristobal"
+    },
+    {
+        "id": 180,
+        "coordinates_wkt": "POINT (-82.43457008 8.365)",
+        "name": "Pedregal"
+    },
+    {
+        "id": 181,
+        "coordinates_wkt": "POINT (-77.1418139 -12.04527778)",
+        "name": "Callao"
+    },
+    {
+        "id": 182,
+        "coordinates_wkt": "POINT (-72.10424028 -16.99777778)",
+        "name": "Matarani"
+    },
+    {
+        "id": 183,
+        "coordinates_wkt": "POINT (14.26861013 53.905)",
+        "name": "Swinoujscie"
+    },
+    {
+        "id": 184,
+        "coordinates_wkt": "POINT (-8.692873969 41.185)",
+        "name": "Leixoes"
+    },
+    {
+        "id": 185,
+        "coordinates_wkt": "POINT (-8.821436985 38.48972222)",
+        "name": "Setubal"
+    },
+    {
+        "id": 186,
+        "coordinates_wkt": "POINT (-8.7196702 40.64361111)",
+        "name": "Aveiro"
+    },
+    {
+        "id": 187,
+        "coordinates_wkt": "POINT (-8.823027091 41.68638889)",
+        "name": "Viana do Castelo"
+    },
+    {
+        "id": 188,
+        "coordinates_wkt": "POINT (28.08386337 45.44166667)",
+        "name": "Galati"
+    },
+    {
+        "id": 189,
+        "coordinates_wkt": "POINT (132.9075972 42.80472222)",
+        "name": "Nakhodka"
+    },
+    {
+        "id": 190,
+        "coordinates_wkt": "POINT (32.404947 67.135)",
+        "name": "Kandalaksha"
+    },
+    {
+        "id": 191,
+        "coordinates_wkt": "POINT (142.0400471 47.05055556)",
+        "name": "Kholmsk"
+    },
+    {
+        "id": 192,
+        "coordinates_wkt": "POINT (142.7584806 46.62666667)",
+        "name": "Korsakov"
+    },
+    {
+        "id": 193,
+        "coordinates_wkt": "POINT (29.76737338 59.98694444)",
+        "name": "Kronshtadt"
+    },
+    {
+        "id": 194,
+        "coordinates_wkt": "POINT (132.8861602 42.8)",
+        "name": "Nakhodka"
+    },
+    {
+        "id": 195,
+        "coordinates_wkt": "POINT (37.80441696 44.715)",
+        "name": "Novorossiysk"
+    },
+    {
+        "id": 196,
+        "coordinates_wkt": "POINT (39.06666667 44.09194444)",
+        "name": "Tuapse"
+    },
+    {
+        "id": 197,
+        "coordinates_wkt": "POINT (49.67090695 27.02861111)",
+        "name": "Jubail"
+    },
+    {
+        "id": 198,
+        "coordinates_wkt": "POINT (49.67302709 27.08777778)",
+        "name": "Jubail"
+    },
+    {
+        "id": 199,
+        "coordinates_wkt": "POINT (48.52249706 28.415)",
+        "name": "Ras al Khafji"
+    },
+    {
+        "id": 200,
+        "coordinates_wkt": "POINT (12.47638398 56.88944444)",
+        "name": "Falkenberg"
+    },
+    {
+        "id": 201,
+        "coordinates_wkt": "POINT (14.30547703 55.92555556)",
+        "name": "Ahus"
+    },
+    {
+        "id": 202,
+        "coordinates_wkt": "POINT (17.93881037 62.64083333)",
+        "name": "Harnosand"
+    },
+    {
+        "id": 203,
+        "coordinates_wkt": "POINT (12.54146054 56.19861111)",
+        "name": "Hoganas"
+    },
+    {
+        "id": 204,
+        "coordinates_wkt": "POINT (14.85830389 56.1625)",
+        "name": "Karlshamn"
+    },
+    {
+        "id": 205,
+        "coordinates_wkt": "POINT (15.58598351 56.16)",
+        "name": "Karlskrona"
+    },
+    {
+        "id": 206,
+        "coordinates_wkt": "POINT (17.95812721 58.91333333)",
+        "name": "Nynashamn"
+    },
+    {
+        "id": 207,
+        "coordinates_wkt": "POINT (16.47073027 57.265)",
+        "name": "Oskarshamn"
+    },
+    {
+        "id": 208,
+        "coordinates_wkt": "POINT (17.10795053 58.66166667)",
+        "name": "Oxelosund"
+    },
+    {
+        "id": 209,
+        "coordinates_wkt": "POINT (21.47037691 65.30888889)",
+        "name": "Pitea"
+    },
+    {
+        "id": 210,
+        "coordinates_wkt": "POINT (17.65918728 59.16972222)",
+        "name": "Sodertalje"
+    },
+    {
+        "id": 211,
+        "coordinates_wkt": "POINT (13.15159011 55.36805556)",
+        "name": "Trelleborg"
+    },
+    {
+        "id": 212,
+        "coordinates_wkt": "POINT (11.90477032 58.34805556)",
+        "name": "Uddevalla"
+    },
+    {
+        "id": 213,
+        "coordinates_wkt": "POINT (13.82073027 55.42138889)",
+        "name": "Ystad"
+    },
+    {
+        "id": 214,
+        "coordinates_wkt": "POINT (100.5849234 13.69583333)",
+        "name": "Bangkok"
+    },
+    {
+        "id": 215,
+        "coordinates_wkt": "POINT (100.8909305 13.07388889)",
+        "name": "Laem Chabang"
+    },
+    {
+        "id": 216,
+        "coordinates_wkt": "POINT (100.9186101 13.17138889)",
+        "name": "Sriracha"
+    },
+    {
+        "id": 217,
+        "coordinates_wkt": "POINT (-61.48951708 10.38833333)",
+        "name": "Point Lisas"
+    },
+    {
+        "id": 218,
+        "coordinates_wkt": "POINT (34.64057715 36.79694444)",
+        "name": "Mersin"
+    },
+    {
+        "id": 219,
+        "coordinates_wkt": "POINT (36.77320377 46.75138889)",
+        "name": "Berdyansk"
+    },
+    {
+        "id": 220,
+        "coordinates_wkt": "POINT (36.48563015 45.355)",
+        "name": "Kerch"
+    },
+    {
+        "id": 221,
+        "coordinates_wkt": "POINT (-122.3590106 37.91388889)",
+        "name": "Richmond"
+    },
+    {
+        "id": 222,
+        "coordinates_wkt": "POINT (-75.51984688 39.71666667)",
+        "name": "Wilmington"
+    },
+    {
+        "id": 223,
+        "coordinates_wkt": "POINT (-70.96896349 42.24138889)",
+        "name": "Quincy"
+    },
+    {
+        "id": 224,
+        "coordinates_wkt": "POINT (-159.3530035 21.95388889)",
+        "name": "Nawiliwili"
+    },
+    {
+        "id": 225,
+        "coordinates_wkt": "POINT (-121.888987 36.60555556)",
+        "name": "Monterey"
+    },
+    {
+        "id": 226,
+        "coordinates_wkt": "POINT (-77.95265018 34.19194444)",
+        "name": "Wilmington"
+    },
+    {
+        "id": 227,
+        "coordinates_wkt": "POINT (-75.12267373 39.90361111)",
+        "name": "Gloucester City"
+    },
+    {
+        "id": 228,
+        "coordinates_wkt": "POINT (-74.1024735 40.6625)",
+        "name": "Bayonne"
+    },
+    {
+        "id": 229,
+        "coordinates_wkt": "POINT (-76.55565371 39.2325)",
+        "name": "Baltimore"
+    },
+    {
+        "id": 230,
+        "coordinates_wkt": "POINT (-81.55918728 30.38083333)",
+        "name": "Jacksonville"
+    },
+    {
+        "id": 231,
+        "coordinates_wkt": "POINT (-76.4262073 36.98055556)",
+        "name": "Newport News"
+    },
+    {
+        "id": 232,
+        "coordinates_wkt": "POINT (-93.95706714 29.84305556)",
+        "name": "Port Arthur"
+    },
+    {
+        "id": 233,
+        "coordinates_wkt": "POINT (-76.28828033 36.81666667)",
+        "name": "Portsmouth"
+    },
+    {
+        "id": 234,
+        "coordinates_wkt": "POINT (-77.95265018 34.19194444)",
+        "name": "Wilmington"
+    },
+    {
+        "id": 235,
+        "coordinates_wkt": "POINT (-93.95706714 29.84305556)",
+        "name": "Port Arthur"
+    },
+    {
+        "id": 236,
+        "coordinates_wkt": "POINT (-77.03722026 38.80111111)",
+        "name": "Alexandria"
+    },
+    {
+        "id": 237,
+        "coordinates_wkt": "POINT (-76.4262073 36.98055556)",
+        "name": "Newport News"
+    },
+    {
+        "id": 238,
+        "coordinates_wkt": "POINT (-122.6086572 47.65138889)",
+        "name": "Brownsville"
+    },
+    {
+        "id": 239,
+        "coordinates_wkt": "POINT (-122.7038869 45.63472222)",
+        "name": "Vancouver"
+    },
+    {
+        "id": 240,
+        "coordinates_wkt": "POINT (-64.59040047 10.24916667)",
+        "name": "Guanta"
+    },
+    {
+        "id": 241,
+        "coordinates_wkt": "POINT (121.72583696694346 25.220760141757456)",
+        "name": "Keelung"
+    },
+    {
+        "id": 242,
+        "coordinates_wkt": "POINT (-13.623954376704255 28.948964844057482)",
+        "name": "Arrecife"
+    },
+    {
+        "id": 243,
+        "coordinates_wkt": "POINT (-64.92841530036452 18.332123222010704)",
+        "name": "St Thomas"
+    },
+    {
+        "id": 244,
+        "coordinates_wkt": "POINT (-62.750002499299285 17.27882702118545)",
+        "name": "Basseterre"
+    },
+    {
+        "id": 245,
+        "coordinates_wkt": "POINT (-90.05637124381114 29.93419996813862)",
+        "name": "New Orleans"
+    },
+    {
+        "id": 246,
+        "coordinates_wkt": "POINT (-78.72766361581795 26.5384106344139)",
+        "name": "Freeport"
+    },
+    {
+        "id": 247,
+        "coordinates_wkt": "POINT (-77.56 44.1)",
+        "name": "Trenton"
+    },
+    {
+        "id": 248,
+        "coordinates_wkt": "POINT (-81.73 43.75)",
+        "name": "Goderich"
+    },
+    {
+        "id": 249,
+        "coordinates_wkt": "POINT (-79.91 44.75)",
+        "name": "Midland"
+    },
+    {
+        "id": 250,
+        "coordinates_wkt": "POINT (-86.48 42.11)",
+        "name": "St Joseph"
+    },
+    {
+        "id": 251,
+        "coordinates_wkt": "POINT (-87.78 42.73)",
+        "name": "Racine"
+    },
+    {
+        "id": 252,
+        "coordinates_wkt": "POINT (-87.6 45.1)",
+        "name": "Menominee"
+    },
+    {
+        "id": 253,
+        "coordinates_wkt": "POINT (-87.05 45.76)",
+        "name": "Escanaba"
+    },
+    {
+        "id": 254,
+        "coordinates_wkt": "POINT (-121.5 38.58)",
+        "name": "Sacramento"
+    },
+    {
+        "id": 255,
+        "coordinates_wkt": "POINT (1.73 52.61)",
+        "name": "Great Yarmouth"
+    },
+    {
+        "id": 256,
+        "coordinates_wkt": "POINT (-2.96 56.46)",
+        "name": "Dundee"
+    },
+    {
+        "id": 257,
+        "coordinates_wkt": "POINT (-3.83 57.83)",
+        "name": "Portmahomack Harbor"
+    },
+    {
+        "id": 258,
+        "coordinates_wkt": "POINT (-3.08 58.43)",
+        "name": "Wick"
+    },
+    {
+        "id": 259,
+        "coordinates_wkt": "POINT (-5.46 56.41)",
+        "name": "Oban"
+    },
+    {
+        "id": 260,
+        "coordinates_wkt": "POINT (-4.46 54.15)",
+        "name": "Douglas"
+    },
+    {
+        "id": 261,
+        "coordinates_wkt": "POINT (-7.31 55)",
+        "name": "Londonderry"
+    },
+    {
+        "id": 262,
+        "coordinates_wkt": "POINT (-3.4 54.86)",
+        "name": "Silloth"
+    },
+    {
+        "id": 263,
+        "coordinates_wkt": "POINT (13.09375736 -7.833055556)",
+        "name": "Ambriz"
+    },
+    {
+        "id": 264,
+        "coordinates_wkt": "POINT (12.19022379 -5.55)",
+        "name": "Cabinda"
+    },
+    {
+        "id": 265,
+        "coordinates_wkt": "POINT (12.32037691 -6.121388889)",
+        "name": "Soyo"
+    },
+    {
+        "id": 266,
+        "coordinates_wkt": "POINT (19.45300353 41.30777778)",
+        "name": "Durres"
+    },
+    {
+        "id": 267,
+        "coordinates_wkt": "POINT (-68.91825677 12.11916667)",
+        "name": "Curacao"
+    },
+    {
+        "id": 268,
+        "coordinates_wkt": "POINT (56.3565371 25.17833333)",
+        "name": "Al Fujayrah"
+    },
+    {
+        "id": 269,
+        "coordinates_wkt": "POINT (-67.50848057 -46.43305556)",
+        "name": "Caleta Olivia"
+    },
+    {
+        "id": 270,
+        "coordinates_wkt": "POINT (-65.9040636 -47.75555556)",
+        "name": "Puerto Deseado"
+    },
+    {
+        "id": 271,
+        "coordinates_wkt": "POINT (-69.21825677 -51.61166667)",
+        "name": "Rio Gallegos"
+    },
+    {
+        "id": 272,
+        "coordinates_wkt": "POINT (-67.7024735 -53.79444444)",
+        "name": "Rio Grande"
+    },
+    {
+        "id": 273,
+        "coordinates_wkt": "POINT (-67.71896349 -49.29972222)",
+        "name": "San Julian"
+    },
+    {
+        "id": 274,
+        "coordinates_wkt": "POINT (153.1414605 -30.3075)",
+        "name": "Coffs Harbour"
+    },
+    {
+        "id": 275,
+        "coordinates_wkt": "POINT (121.893404 -33.87194444)",
+        "name": "Esperance"
+    },
+    {
+        "id": 276,
+        "coordinates_wkt": "POINT (137.7567138 -32.48861111)",
+        "name": "Port Augusta"
+    },
+    {
+        "id": 277,
+        "coordinates_wkt": "POINT (148.25053 -20.02083333)",
+        "name": "Bowen"
+    },
+    {
+        "id": 278,
+        "coordinates_wkt": "POINT (152.388457 -24.76722222)",
+        "name": "Bundaberg"
+    },
+    {
+        "id": 279,
+        "coordinates_wkt": "POINT (139.737927 -17.55361111)",
+        "name": "Burketown"
+    },
+    {
+        "id": 280,
+        "coordinates_wkt": "POINT (113.642874 -24.895)",
+        "name": "Carnarvon"
+    },
+    {
+        "id": 281,
+        "coordinates_wkt": "POINT (145.2437574 -15.45972222)",
+        "name": "Cooktown"
+    },
+    {
+        "id": 282,
+        "coordinates_wkt": "POINT (123.6051237 -17.29222222)",
+        "name": "Derby"
+    },
+    {
+        "id": 283,
+        "coordinates_wkt": "POINT (149.9053004 -37.07194444)",
+        "name": "Eden"
+    },
+    {
+        "id": 284,
+        "coordinates_wkt": "POINT (146.8202002 -41.10972222)",
+        "name": "George Town"
+    },
+    {
+        "id": 285,
+        "coordinates_wkt": "POINT (114.6007067 -28.77277778)",
+        "name": "Geraldton"
+    },
+    {
+        "id": 286,
+        "coordinates_wkt": "POINT (140.8333333 -17.48944444)",
+        "name": "Karumba"
+    },
+    {
+        "id": 287,
+        "coordinates_wkt": "POINT (137.6395171 -35.655)",
+        "name": "Kingscote"
+    },
+    {
+        "id": 288,
+        "coordinates_wkt": "POINT (152.9060071 -25.295)",
+        "name": "Maryborough"
+    },
+    {
+        "id": 289,
+        "coordinates_wkt": "POINT (145.3205536 -42.15833333)",
+        "name": "Strahan"
+    },
+    {
+        "id": 290,
+        "coordinates_wkt": "POINT (89.58598351 22.48694444)",
+        "name": "Mongla"
+    },
+    {
+        "id": 291,
+        "coordinates_wkt": "POINT (-37.03951708 -10.92527778)",
+        "name": "Aracaju"
+    },
+    {
+        "id": 292,
+        "coordinates_wkt": "POINT (-38.52143698 -3.7175)",
+        "name": "Fortaleza"
+    },
+    {
+        "id": 293,
+        "coordinates_wkt": "POINT (-51.04269729 0.032222222)",
+        "name": "Macapa"
+    },
+    {
+        "id": 294,
+        "coordinates_wkt": "POINT (-48.65424028 -26.89888889)",
+        "name": "Navegantes"
+    },
+    {
+        "id": 295,
+        "coordinates_wkt": "POINT (-52.3237338 -31.78194444)",
+        "name": "Pelotas"
+    },
+    {
+        "id": 296,
+        "coordinates_wkt": "POINT (-125.2386337 50.03194444)",
+        "name": "Campbell River"
+    },
+    {
+        "id": 297,
+        "coordinates_wkt": "POINT (-60.34234393 53.38444444)",
+        "name": "Goose Bay"
+    },
+    {
+        "id": 298,
+        "coordinates_wkt": "POINT (-132.1411072 54.00666667)",
+        "name": "Masset"
+    },
+    {
+        "id": 299,
+        "coordinates_wkt": "POINT (-67.57126031 48.84194444)",
+        "name": "Matane"
+    },
+    {
+        "id": 300,
+        "coordinates_wkt": "POINT (-84.54305065 73.06861111)",
+        "name": "Nanisivik"
+    },
+    {
+        "id": 301,
+        "coordinates_wkt": "POINT (-65.83492344 48.13861111)",
+        "name": "New Richmond"
+    },
+    {
+        "id": 302,
+        "coordinates_wkt": "POINT (-127.4836867 50.72111111)",
+        "name": "Port Hardy"
+    },
+    {
+        "id": 303,
+        "coordinates_wkt": "POINT (-61.35565371 45.61)",
+        "name": "Port Hawkesbury"
+    },
+    {
+        "id": 304,
+        "coordinates_wkt": "POINT (-123.1666667 49.68305556)",
+        "name": "Squamish"
+    },
+    {
+        "id": 305,
+        "coordinates_wkt": "POINT (-58.54075383 48.53527778)",
+        "name": "Stephenville"
+    },
+    {
+        "id": 306,
+        "coordinates_wkt": "POINT (-129.9895171 55.92861111)",
+        "name": "Stewart"
+    },
+    {
+        "id": 307,
+        "coordinates_wkt": "POINT (-126.6540636 49.9175)",
+        "name": "Tahsis"
+    },
+    {
+        "id": 308,
+        "coordinates_wkt": "POINT (-131.8196702 53.25527778)",
+        "name": "Sandspit"
+    },
+    {
+        "id": 309,
+        "coordinates_wkt": "POINT (-132.9858068 69.43138889)",
+        "name": "Tuktoyaktuk"
+    },
+    {
+        "id": 310,
+        "coordinates_wkt": "POINT (-73.82567727 -41.86861111)",
+        "name": "Ancud"
+    },
+    {
+        "id": 311,
+        "coordinates_wkt": "POINT (-73.76684335 -42.48277778)",
+        "name": "Castro"
+    },
+    {
+        "id": 312,
+        "coordinates_wkt": "POINT (-70.6343934 -26.35055556)",
+        "name": "Chanaral"
+    },
+    {
+        "id": 313,
+        "coordinates_wkt": "POINT (-72.50936396 -51.73111111)",
+        "name": "Puerto Natales"
+    },
+    {
+        "id": 314,
+        "coordinates_wkt": "POINT (-70.48457008 -25.39722222)",
+        "name": "Taltal"
+    },
+    {
+        "id": 315,
+        "coordinates_wkt": "POINT (113.6710836 22.64027778)",
+        "name": "Guangzhou"
+    },
+    {
+        "id": 316,
+        "coordinates_wkt": "POINT (120.2212603 31.93194444)",
+        "name": "Jiangyin"
+    },
+    {
+        "id": 317,
+        "coordinates_wkt": "POINT (119.4084806 34.74527778)",
+        "name": "Lianyungang"
+    },
+    {
+        "id": 318,
+        "coordinates_wkt": "POINT (109.50053 18.23972222)",
+        "name": "Sanya"
+    },
+    {
+        "id": 319,
+        "coordinates_wkt": "POINT (110.4063604 21.16972222)",
+        "name": "Zhanjiang"
+    },
+    {
+        "id": 320,
+        "coordinates_wkt": "POINT (122.1026502 30.00333333)",
+        "name": "Zhoushan"
+    },
+    {
+        "id": 321,
+        "coordinates_wkt": "POINT (-6.617020024 4.743055556)",
+        "name": "San-Pedro"
+    },
+    {
+        "id": 322,
+        "coordinates_wkt": "POINT (-75.52567727 10.40333333)",
+        "name": "Cartagena"
+    },
+    {
+        "id": 323,
+        "coordinates_wkt": "POINT (-75.5852768 9.520277778)",
+        "name": "Tolu"
+    },
+    {
+        "id": 324,
+        "coordinates_wkt": "POINT (-78.75954064 1.813055556)",
+        "name": "Tumaco"
+    },
+    {
+        "id": 325,
+        "coordinates_wkt": "POINT (-76.73386337 8.087777778)",
+        "name": "Turbo"
+    },
+    {
+        "id": 326,
+        "coordinates_wkt": "POINT (-74.50229682 20.35305556)",
+        "name": "Baracoa"
+    },
+    {
+        "id": 327,
+        "coordinates_wkt": "POINT (-75.55088339 20.71333333)",
+        "name": "Nicaro"
+    },
+    {
+        "id": 328,
+        "coordinates_wkt": "POINT (-82.79322733 21.90333333)",
+        "name": "Nueva Gerona"
+    },
+    {
+        "id": 329,
+        "coordinates_wkt": "POINT (7.891283863 54.1775)",
+        "name": "Helgoland"
+    },
+    {
+        "id": 330,
+        "coordinates_wkt": "POINT (10.86825677 53.95222222)",
+        "name": "Travemunde"
+    },
+    {
+        "id": 331,
+        "coordinates_wkt": "POINT (8.692167256 56.95277778)",
+        "name": "Thisted"
+    },
+    {
+        "id": 332,
+        "coordinates_wkt": "POINT (-80.72090695 -0.935555556)",
+        "name": "Manta"
+    },
+    {
+        "id": 333,
+        "coordinates_wkt": "POINT (-79.64269729 0.989444444)",
+        "name": "Esmeraldas"
+    },
+    {
+        "id": 334,
+        "coordinates_wkt": "POINT (-13.85883392 28.74138889)",
+        "name": "Corralejo"
+    },
+    {
+        "id": 335,
+        "coordinates_wkt": "POINT (-5.310424028 35.89027778)",
+        "name": "Ceuta"
+    },
+    {
+        "id": 336,
+        "coordinates_wkt": "POINT (-2.922850412 35.28)",
+        "name": "Melilla"
+    },
+    {
+        "id": 337,
+        "coordinates_wkt": "POINT (-17.10512367 28.08805556)",
+        "name": "San Sebastian de la Gomera"
+    },
+    {
+        "id": 338,
+        "coordinates_wkt": "POINT (-17.76666667 28.67583333)",
+        "name": "Santa Cruz de La Palma"
+    },
+    {
+        "id": 339,
+        "coordinates_wkt": "POINT (24.4746172 58.38111111)",
+        "name": "Parnu"
+    },
+    {
+        "id": 340,
+        "coordinates_wkt": "POINT (27.68987044 62.88833333)",
+        "name": "Kuopio"
+    },
+    {
+        "id": 341,
+        "coordinates_wkt": "POINT (29.77709069 62.60444444)",
+        "name": "Joensuu"
+    },
+    {
+        "id": 342,
+        "coordinates_wkt": "POINT (27.87479388 62.3125)",
+        "name": "Varkaus"
+    },
+    {
+        "id": 343,
+        "coordinates_wkt": "POINT (179.309364 -16.81777778)",
+        "name": "Savusavu"
+    },
+    {
+        "id": 344,
+        "coordinates_wkt": "POINT (-1.620376914 49.64638889)",
+        "name": "Cherbourg"
+    },
+    {
+        "id": 345,
+        "coordinates_wkt": "POINT (-0.326383981 49.19055556)",
+        "name": "Caen"
+    },
+    {
+        "id": 346,
+        "coordinates_wkt": "POINT (8.755300353 42.56583333)",
+        "name": "Calvi"
+    },
+    {
+        "id": 347,
+        "coordinates_wkt": "POINT (8.900353357 41.67694444)",
+        "name": "Propriano"
+    },
+    {
+        "id": 348,
+        "coordinates_wkt": "POINT (-4.108127208 47.98944444)",
+        "name": "Quimper"
+    },
+    {
+        "id": 349,
+        "coordinates_wkt": "POINT (-2.756360424 47.64388889)",
+        "name": "Vannes"
+    },
+    {
+        "id": 350,
+        "coordinates_wkt": "POINT (138.1194935 9.513333333)",
+        "name": "Yap"
+    },
+    {
+        "id": 351,
+        "coordinates_wkt": "POINT (-2.707773852 51.49888889)",
+        "name": "Bristol"
+    },
+    {
+        "id": 352,
+        "coordinates_wkt": "POINT (-0.285100118 53.74361111)",
+        "name": "Hull"
+    },
+    {
+        "id": 353,
+        "coordinates_wkt": "POINT (-1.590930506 54.965)",
+        "name": "Newcastle upon Tyne"
+    },
+    {
+        "id": 354,
+        "coordinates_wkt": "POINT (-1.440930506 54.99444444)",
+        "name": "Tyne"
+    },
+    {
+        "id": 355,
+        "coordinates_wkt": "POINT (0.685806832 51.43472222)",
+        "name": "Rochester"
+    },
+    {
+        "id": 356,
+        "coordinates_wkt": "POINT (0.007420495 5.631944444)",
+        "name": "Tema"
+    },
+    {
+        "id": 357,
+        "coordinates_wkt": "POINT (25.88916372 40.84138889)",
+        "name": "Alexandroupolis"
+    },
+    {
+        "id": 358,
+        "coordinates_wkt": "POINT (27.28987044 36.89444444)",
+        "name": "Kos"
+    },
+    {
+        "id": 359,
+        "coordinates_wkt": "POINT (25.15070671 37.08777778)",
+        "name": "Paros"
+    },
+    {
+        "id": 360,
+        "coordinates_wkt": "POINT (26.96666667 37.75444444)",
+        "name": "Samos"
+    },
+    {
+        "id": 361,
+        "coordinates_wkt": "POINT (-45.23810365 60.13972222)",
+        "name": "Nanortalik"
+    },
+    {
+        "id": 362,
+        "coordinates_wkt": "POINT (-69.23510012 77.46694444)",
+        "name": "Qaanaaq"
+    },
+    {
+        "id": 363,
+        "coordinates_wkt": "POINT (-57.52179034 6.237777778)",
+        "name": "New Amsterdam"
+    },
+    {
+        "id": 364,
+        "coordinates_wkt": "POINT (-86.75689046 15.79388889)",
+        "name": "La Ceiba"
+    },
+    {
+        "id": 365,
+        "coordinates_wkt": "POINT (-87.45583039 15.78388889)",
+        "name": "Tela"
+    },
+    {
+        "id": 366,
+        "coordinates_wkt": "POINT (14.45759717 44.53833333)",
+        "name": "Mali Losinj"
+    },
+    {
+        "id": 367,
+        "coordinates_wkt": "POINT (-72.53598351 18.23166667)",
+        "name": "Jacmel"
+    },
+    {
+        "id": 368,
+        "coordinates_wkt": "POINT (-74.10706714 18.64361111)",
+        "name": "Jeremie"
+    },
+    {
+        "id": 369,
+        "coordinates_wkt": "POINT (131.0203769 -1.3075)",
+        "name": "Sorong"
+    },
+    {
+        "id": 370,
+        "coordinates_wkt": "POINT (97.14287397 5.166666667)",
+        "name": "Lhokseumawe"
+    },
+    {
+        "id": 371,
+        "coordinates_wkt": "POINT (117.654947 4.145555556)",
+        "name": "Nunukan"
+    },
+    {
+        "id": 372,
+        "coordinates_wkt": "POINT (105.3070671 -5.460277778)",
+        "name": "Panjang"
+    },
+    {
+        "id": 373,
+        "coordinates_wkt": "POINT (106.8904005 -6.101388889)",
+        "name": "Tanjung Priok"
+    },
+    {
+        "id": 374,
+        "coordinates_wkt": "POINT (74.80742049 12.92694444)",
+        "name": "Mangalore"
+    },
+    {
+        "id": 375,
+        "coordinates_wkt": "POINT (69.58739694 21.63944444)",
+        "name": "Porbandar"
+    },
+    {
+        "id": 376,
+        "coordinates_wkt": "POINT (73.27179034 17.00194444)",
+        "name": "Ratnagiri"
+    },
+    {
+        "id": 377,
+        "coordinates_wkt": "POINT (-9.456183746 51.68055556)",
+        "name": "Bantry"
+    },
+    {
+        "id": 378,
+        "coordinates_wkt": "POINT (-6.456183746 52.34111111)",
+        "name": "Wexford"
+    },
+    {
+        "id": 379,
+        "coordinates_wkt": "POINT (48.18545347 30.4325)",
+        "name": "Khorramshahr"
+    },
+    {
+        "id": 380,
+        "coordinates_wkt": "POINT (-14.28651355 64.66055556)",
+        "name": "Djupivogur"
+    },
+    {
+        "id": 381,
+        "coordinates_wkt": "POINT (-14.00883392 64.92972222)",
+        "name": "Faskrudsfjordur"
+    },
+    {
+        "id": 382,
+        "coordinates_wkt": "POINT (-15.94146054 66.45638889)",
+        "name": "Raufarhofn"
+    },
+    {
+        "id": 383,
+        "coordinates_wkt": "POINT (11.93792697 36.83333333)",
+        "name": "Pantelleria"
+    },
+    {
+        "id": 384,
+        "coordinates_wkt": "POINT (15.09093051 37.49583333)",
+        "name": "Catania"
+    },
+    {
+        "id": 385,
+        "coordinates_wkt": "POINT (12.23545347 41.75583333)",
+        "name": "Fiumicino"
+    },
+    {
+        "id": 386,
+        "coordinates_wkt": "POINT (12.6024735 35.49916667)",
+        "name": "Lampedusa"
+    },
+    {
+        "id": 387,
+        "coordinates_wkt": "POINT (15.92532391 41.62416667)",
+        "name": "Manfredonia"
+    },
+    {
+        "id": 388,
+        "coordinates_wkt": "POINT (-77.10671378 18.41027778)",
+        "name": "Ocho Rios"
+    },
+    {
+        "id": 389,
+        "coordinates_wkt": "POINT (-76.45176678 18.18111111)",
+        "name": "Port Antonio"
+    },
+    {
+        "id": 390,
+        "coordinates_wkt": "POINT (130.9856302 30.73166667)",
+        "name": "Nishinoomote"
+    },
+    {
+        "id": 391,
+        "coordinates_wkt": "POINT (140.0398704 39.76222222)",
+        "name": "Akita"
+    },
+    {
+        "id": 392,
+        "coordinates_wkt": "POINT (141.5235571 40.54583333)",
+        "name": "Hachinohe"
+    },
+    {
+        "id": 393,
+        "coordinates_wkt": "POINT (124.1512367 24.33555556)",
+        "name": "Ishigaki"
+    },
+    {
+        "id": 394,
+        "coordinates_wkt": "POINT (132.693404 33.85527778)",
+        "name": "Matsuyama"
+    },
+    {
+        "id": 395,
+        "coordinates_wkt": "POINT (139.8035336 38.93944444)",
+        "name": "Sakata"
+    },
+    {
+        "id": 396,
+        "coordinates_wkt": "POINT (134.0533569 34.35527778)",
+        "name": "Takamatsu"
+    },
+    {
+        "id": 397,
+        "coordinates_wkt": "POINT (141.6891637 45.41055556)",
+        "name": "Wakkanai"
+    },
+    {
+        "id": 398,
+        "coordinates_wkt": "POINT (134.187927 35.54027778)",
+        "name": "Tottori"
+    },
+    {
+        "id": 399,
+        "coordinates_wkt": "POINT (40.90159011 -2.268055556)",
+        "name": "Lamu"
+    },
+    {
+        "id": 400,
+        "coordinates_wkt": "POINT (126.5881037 35.95972222)",
+        "name": "Gunsan"
+    },
+    {
+        "id": 401,
+        "coordinates_wkt": "POINT (129.4028269 36.01972222)",
+        "name": "Pohang"
+    },
+    {
+        "id": 402,
+        "coordinates_wkt": "POINT (129.1882803 37.43361111)",
+        "name": "Samcheok"
+    },
+    {
+        "id": 403,
+        "coordinates_wkt": "POINT (128.5923439 38.20694444)",
+        "name": "Sokcho"
+    },
+    {
+        "id": 404,
+        "coordinates_wkt": "POINT (129.3856302 35.48777778)",
+        "name": "Ulsan"
+    },
+    {
+        "id": 405,
+        "coordinates_wkt": "POINT (35.81914016 34.45527778)",
+        "name": "Tripoli"
+    },
+    {
+        "id": 406,
+        "coordinates_wkt": "POINT (-10.05265018 5.858055556)",
+        "name": "Buchanan"
+    },
+    {
+        "id": 407,
+        "coordinates_wkt": "POINT (13.19358068 32.9075)",
+        "name": "Tripoli"
+    },
+    {
+        "id": 408,
+        "coordinates_wkt": "POINT (-9.634923439 30.42388889)",
+        "name": "Agadir"
+    },
+    {
+        "id": 409,
+        "coordinates_wkt": "POINT (-3.919846879 35.24777778)",
+        "name": "Al Hoceima"
+    },
+    {
+        "id": 410,
+        "coordinates_wkt": "POINT (-15.93386337 23.68222222)",
+        "name": "Dakhla"
+    },
+    {
+        "id": 411,
+        "coordinates_wkt": "POINT (50.2762073 -14.9)",
+        "name": "Antalaha"
+    },
+    {
+        "id": 412,
+        "coordinates_wkt": "POINT (48.01878681 -22.1425)",
+        "name": "Manakara"
+    },
+    {
+        "id": 413,
+        "coordinates_wkt": "POINT (48.3262073 -21.24916667)",
+        "name": "Mananjary"
+    },
+    {
+        "id": 414,
+        "coordinates_wkt": "POINT (44.27196702 -20.28861111)",
+        "name": "Morondava"
+    },
+    {
+        "id": 415,
+        "coordinates_wkt": "POINT (49.42196702 -18.15722222)",
+        "name": "Toamasina"
+    },
+    {
+        "id": 416,
+        "coordinates_wkt": "POINT (-111.3368669 26.01472222)",
+        "name": "Loreto"
+    },
+    {
+        "id": 417,
+        "coordinates_wkt": "POINT (-90.59040047 19.8125)",
+        "name": "Campeche"
+    },
+    {
+        "id": 418,
+        "coordinates_wkt": "POINT (-86.95742049 20.495)",
+        "name": "Cozumel"
+    },
+    {
+        "id": 419,
+        "coordinates_wkt": "POINT (-110.310424 24.16944444)",
+        "name": "La Paz"
+    },
+    {
+        "id": 420,
+        "coordinates_wkt": "POINT (-87.06772674 20.62444444)",
+        "name": "Playa del Carmen"
+    },
+    {
+        "id": 421,
+        "coordinates_wkt": "POINT (-113.5423439 31.30611111)",
+        "name": "Puerto Penasco"
+    },
+    {
+        "id": 422,
+        "coordinates_wkt": "POINT (-105.2409305 20.65916667)",
+        "name": "Puerto Vallarta"
+    },
+    {
+        "id": 423,
+        "coordinates_wkt": "POINT (-94.41896349 18.12972222)",
+        "name": "Coatzacoalcos"
+    },
+    {
+        "id": 424,
+        "coordinates_wkt": "POINT (94.72338045 16.77972222)",
+        "name": "Bassein"
+    },
+    {
+        "id": 425,
+        "coordinates_wkt": "POINT (40.6671967 -14.54138889)",
+        "name": "Nacala"
+    },
+    {
+        "id": 426,
+        "coordinates_wkt": "POINT (40.48492344 -12.96666667)",
+        "name": "Pemba"
+    },
+    {
+        "id": 427,
+        "coordinates_wkt": "POINT (36.87709069 -17.88166667)",
+        "name": "Quelimane"
+    },
+    {
+        "id": 428,
+        "coordinates_wkt": "POINT (57.48987044 -20.14805556)",
+        "name": "Port Louis"
+    },
+    {
+        "id": 429,
+        "coordinates_wkt": "POINT (102.1233804 2.248888889)",
+        "name": "Malacca"
+    },
+    {
+        "id": 430,
+        "coordinates_wkt": "POINT (101.7886337 2.536111111)",
+        "name": "Port Dickson"
+    },
+    {
+        "id": 431,
+        "coordinates_wkt": "POINT (14.50053004 -22.94055556)",
+        "name": "Walvis Bay"
+    },
+    {
+        "id": 432,
+        "coordinates_wkt": "POINT (8.316843345 4.986388889)",
+        "name": "Calabar"
+    },
+    {
+        "id": 433,
+        "coordinates_wkt": "POINT (6.586866902 53.21833333)",
+        "name": "Groningen"
+    },
+    {
+        "id": 434,
+        "coordinates_wkt": "POINT (23.23704358 69.96777778)",
+        "name": "Alta"
+    },
+    {
+        "id": 435,
+        "coordinates_wkt": "POINT (16.1237338 69.32416667)",
+        "name": "Andenes"
+    },
+    {
+        "id": 436,
+        "coordinates_wkt": "POINT (12.20194346 65.4725)",
+        "name": "Bronnoysund"
+    },
+    {
+        "id": 437,
+        "coordinates_wkt": "POINT (6.789870436 58.08861111)",
+        "name": "Farsund"
+    },
+    {
+        "id": 438,
+        "coordinates_wkt": "POINT (5.002826855 61.59777778)",
+        "name": "Floro"
+    },
+    {
+        "id": 439,
+        "coordinates_wkt": "POINT (7.986336867 58.14194444)",
+        "name": "Kristiansand"
+    },
+    {
+        "id": 440,
+        "coordinates_wkt": "POINT (11.49004711 64.46416667)",
+        "name": "Namsos"
+    },
+    {
+        "id": 441,
+        "coordinates_wkt": "POINT (11.22691402 64.86055556)",
+        "name": "Rorvik"
+    },
+    {
+        "id": 442,
+        "coordinates_wkt": "POINT (12.61878681 66.02166667)",
+        "name": "Sandnessjoen"
+    },
+    {
+        "id": 443,
+        "coordinates_wkt": "POINT (14.90989399 68.56833333)",
+        "name": "Stokmarknes"
+    },
+    {
+        "id": 444,
+        "coordinates_wkt": "POINT (5.501413428 59.78)",
+        "name": "Stord"
+    },
+    {
+        "id": 445,
+        "coordinates_wkt": "POINT (174.004417 -41.28555556)",
+        "name": "Picton"
+    },
+    {
+        "id": 446,
+        "coordinates_wkt": "POINT (170.5193168 -45.87583333)",
+        "name": "Dunedin"
+    },
+    {
+        "id": 447,
+        "coordinates_wkt": "POINT (54.00318021 16.94166667)",
+        "name": "Salalah"
+    },
+    {
+        "id": 448,
+        "coordinates_wkt": "POINT (62.33863369 25.11222222)",
+        "name": "Gwadar"
+    },
+    {
+        "id": 449,
+        "coordinates_wkt": "POINT (-82.23757362 9.34)",
+        "name": "Bocas del Toro"
+    },
+    {
+        "id": 450,
+        "coordinates_wkt": "POINT (-78.15106007 8.413611111)",
+        "name": "La Palma"
+    },
+    {
+        "id": 451,
+        "coordinates_wkt": "POINT (-78.60777385 -9.076666667)",
+        "name": "Chimbote"
+    },
+    {
+        "id": 452,
+        "coordinates_wkt": "POINT (-71.34375736 -17.64694444)",
+        "name": "Ilo"
+    },
+    {
+        "id": 453,
+        "coordinates_wkt": "POINT (-72.01024735 -17.03111111)",
+        "name": "Mollendo"
+    },
+    {
+        "id": 454,
+        "coordinates_wkt": "POINT (-76.22196702 -13.73305556)",
+        "name": "Pisco"
+    },
+    {
+        "id": 455,
+        "coordinates_wkt": "POINT (123.3081272 9.311944444)",
+        "name": "Dumaguete"
+    },
+    {
+        "id": 456,
+        "coordinates_wkt": "POINT (125.1542403 6.086111111)",
+        "name": "General Santos"
+    },
+    {
+        "id": 457,
+        "coordinates_wkt": "POINT (154.671967 -5.431944444)",
+        "name": "Buka"
+    },
+    {
+        "id": 458,
+        "coordinates_wkt": "POINT (143.2065371 -9.068333333)",
+        "name": "Daru"
+    },
+    {
+        "id": 459,
+        "coordinates_wkt": "POINT (146.9847468 -6.741111111)",
+        "name": "Lae"
+    },
+    {
+        "id": 460,
+        "coordinates_wkt": "POINT (145.8003534 -5.213333333)",
+        "name": "Madang"
+    },
+    {
+        "id": 461,
+        "coordinates_wkt": "POINT (18.66878681 54.39333333)",
+        "name": "Gdansk"
+    },
+    {
+        "id": 462,
+        "coordinates_wkt": "POINT (18.53845701 54.53333333)",
+        "name": "Gdynia"
+    },
+    {
+        "id": 463,
+        "coordinates_wkt": "POINT (-67.15706714 18.42944444)",
+        "name": "Aguadilla"
+    },
+    {
+        "id": 464,
+        "coordinates_wkt": "POINT (-66.70035336 18.48138889)",
+        "name": "Arecibo"
+    },
+    {
+        "id": 465,
+        "coordinates_wkt": "POINT (-67.15689046 18.21388889)",
+        "name": "Mayaguez"
+    },
+    {
+        "id": 466,
+        "coordinates_wkt": "POINT (-7.926030624 37.01055556)",
+        "name": "Faro"
+    },
+    {
+        "id": 467,
+        "coordinates_wkt": "POINT (-151.75 -16.51666667)",
+        "name": "Bora-Bora"
+    },
+    {
+        "id": 468,
+        "coordinates_wkt": "POINT (28.81684335 45.19111111)",
+        "name": "Tulcea"
+    },
+    {
+        "id": 469,
+        "coordinates_wkt": "POINT (61.55918728 69.75611111)",
+        "name": "Amderma"
+    },
+    {
+        "id": 470,
+        "coordinates_wkt": "POINT (177.5386337 64.74416667)",
+        "name": "Anadyr"
+    },
+    {
+        "id": 471,
+        "coordinates_wkt": "POINT (170.2770907 69.70166667)",
+        "name": "Pevek"
+    },
+    {
+        "id": 472,
+        "coordinates_wkt": "POINT (-16.07196702 14.12944444)",
+        "name": "Kaolack"
+    },
+    {
+        "id": 473,
+        "coordinates_wkt": "POINT (-16.26808009 12.58972222)",
+        "name": "Ziguinchor"
+    },
+    {
+        "id": 474,
+        "coordinates_wkt": "POINT (15.6237338 78.22611111)",
+        "name": "Longyearbyen"
+    },
+    {
+        "id": 475,
+        "coordinates_wkt": "POINT (156.8388104 -8.101388889)",
+        "name": "Gizo"
+    },
+    {
+        "id": 476,
+        "coordinates_wkt": "POINT (157.7260306 -8.499722222)",
+        "name": "Viru Harbour"
+    },
+    {
+        "id": 477,
+        "coordinates_wkt": "POINT (42.54110718 -0.374166667)",
+        "name": "Kismayu"
+    },
+    {
+        "id": 478,
+        "coordinates_wkt": "POINT (13.52020024 59.37527778)",
+        "name": "Karlstad"
+    },
+    {
+        "id": 479,
+        "coordinates_wkt": "POINT (13.15936396 58.50916667)",
+        "name": "Lidkoping"
+    },
+    {
+        "id": 480,
+        "coordinates_wkt": "POINT (21.25176678 64.67833333)",
+        "name": "Skelleftea"
+    },
+    {
+        "id": 481,
+        "coordinates_wkt": "POINT (20.26772674 63.81666667)",
+        "name": "Umea"
+    },
+    {
+        "id": 482,
+        "coordinates_wkt": "POINT (-72.25600707 21.76277778)",
+        "name": "Providenciales"
+    },
+    {
+        "id": 483,
+        "coordinates_wkt": "POINT (100.5696702 7.228611111)",
+        "name": "Songkhla"
+    },
+    {
+        "id": 484,
+        "coordinates_wkt": "POINT (27.95724382 40.35416667)",
+        "name": "Bandirma"
+    },
+    {
+        "id": 485,
+        "coordinates_wkt": "POINT (36.34040047 41.29972222)",
+        "name": "Samsun"
+    },
+    {
+        "id": 486,
+        "coordinates_wkt": "POINT (35.14287397 42.02333333)",
+        "name": "Sinop"
+    },
+    {
+        "id": 487,
+        "coordinates_wkt": "POINT (39.73651355 41.00555556)",
+        "name": "Trabzon"
+    },
+    {
+        "id": 488,
+        "coordinates_wkt": "POINT (33.54146054 44.61888889)",
+        "name": "Sevastopol"
+    },
+    {
+        "id": 489,
+        "coordinates_wkt": "POINT (-135.3223204 59.45083333)",
+        "name": "Skagway"
+    },
+    {
+        "id": 490,
+        "coordinates_wkt": "POINT (-146.3570671 61.10361111)",
+        "name": "Valdez"
+    },
+    {
+        "id": 491,
+        "coordinates_wkt": "POINT (-84.98669022 29.7275)",
+        "name": "Apalachicola"
+    },
+    {
+        "id": 492,
+        "coordinates_wkt": "POINT (-76.47426384 38.965)",
+        "name": "Annapolis"
+    },
+    {
+        "id": 493,
+        "coordinates_wkt": "POINT (-76.07108363 38.57416667)",
+        "name": "Cambridge"
+    },
+    {
+        "id": 494,
+        "coordinates_wkt": "POINT (-122.7836867 45.60583333)",
+        "name": "Portland"
+    },
+    {
+        "id": 495,
+        "coordinates_wkt": "POINT (-122.6377503 47.5625)",
+        "name": "Bremerton"
+    },
+    {
+        "id": 496,
+        "coordinates_wkt": "POINT (-69.10212014 44.10305556)",
+        "name": "Rockland"
+    },
+    {
+        "id": 497,
+        "coordinates_wkt": "POINT (-122.0014134 36.96638889)",
+        "name": "Santa Cruz"
+    },
+    {
+        "id": 498,
+        "coordinates_wkt": "POINT (-76.23951708 36.7225)",
+        "name": "Chesapeake"
+    },
+    {
+        "id": 499,
+        "coordinates_wkt": "POINT (-64.18775029 10.47416667)",
+        "name": "Cumana"
+    },
+    {
+        "id": 500,
+        "coordinates_wkt": "POINT (106.6751472 20.86722222)",
+        "name": "Hai Phong"
+    },
+    {
+        "id": 501,
+        "coordinates_wkt": "POINT (19.910572060487087 39.621950140387334)",
+        "name": "Corfu"
+    },
+    {
+        "id": 502,
+        "coordinates_wkt": "POINT (30.16765718634613 31.334923292880035)",
+        "name": "Alexandria"
+    },
+    {
+        "id": 503,
+        "coordinates_wkt": "POINT (-5.824954241841614 35.79611353569427)",
+        "name": "Tangier"
+    },
+    {
+        "id": 504,
+        "coordinates_wkt": "POINT (-79.85 43.25)",
+        "name": "Hamilton"
+    },
+    {
+        "id": 505,
+        "coordinates_wkt": "POINT (-83.03 42.31)",
+        "name": "Windsor"
+    },
+    {
+        "id": 506,
+        "coordinates_wkt": "POINT (-83.11 42.28)",
+        "name": "Rouge River"
+    },
+    {
+        "id": 507,
+        "coordinates_wkt": "POINT (-80.93 44.58)",
+        "name": "Owen Sound"
+    },
+    {
+        "id": 508,
+        "coordinates_wkt": "POINT (-84.35 46.51)",
+        "name": "Sault Ste Marie"
+    },
+    {
+        "id": 509,
+        "coordinates_wkt": "POINT (-83.93 43.43)",
+        "name": "Saginaw"
+    },
+    {
+        "id": 510,
+        "coordinates_wkt": "POINT (-84.46 45.65)",
+        "name": "Cheboygan"
+    },
+    {
+        "id": 511,
+        "coordinates_wkt": "POINT (-84.35 46.5)",
+        "name": "Sault Ste Marie"
+    },
+    {
+        "id": 512,
+        "coordinates_wkt": "POINT (-86.26 43.23)",
+        "name": "Muskegon"
+    },
+    {
+        "id": 513,
+        "coordinates_wkt": "POINT (-87.33 41.61)",
+        "name": "Gary"
+    },
+    {
+        "id": 514,
+        "coordinates_wkt": "POINT (-87.81 42.36)",
+        "name": "Waukegan"
+    },
+    {
+        "id": 515,
+        "coordinates_wkt": "POINT (-88.56 47.11)",
+        "name": "Houghton"
+    },
+    {
+        "id": 516,
+        "coordinates_wkt": "POINT (-132.38 56.46)",
+        "name": "Wrangell"
+    },
+    {
+        "id": 517,
+        "coordinates_wkt": "POINT (-132.95 56.81)",
+        "name": "Petersburg"
+    },
+    {
+        "id": 518,
+        "coordinates_wkt": "POINT (24.56 65.73)",
+        "name": "Kemi"
+    },
+    {
+        "id": 519,
+        "coordinates_wkt": "POINT (21.58 63.1)",
+        "name": "Vaasa"
+    },
+    {
+        "id": 520,
+        "coordinates_wkt": "POINT (22.23 60.45)",
+        "name": "Turku"
+    },
+    {
+        "id": 521,
+        "coordinates_wkt": "POINT (21.01 56.51)",
+        "name": "Liepaja"
+    },
+    {
+        "id": 522,
+        "coordinates_wkt": "POINT (4.11 51.95)",
+        "name": "Europoort"
+    },
+    {
+        "id": 523,
+        "coordinates_wkt": "POINT (-6.36 58.18)",
+        "name": "Stornoway Harbor"
+    },
+    {
+        "id": 524,
+        "coordinates_wkt": "POINT (-9.16 38.7)",
+        "name": "Lisboa"
+    },
+    {
+        "id": 525,
+        "coordinates_wkt": "POINT (-6.33 36.8)",
+        "name": "Bonanza"
+    },
+    {
+        "id": 526,
+        "coordinates_wkt": "POINT (1.45 38.9)",
+        "name": "Ibiza"
+    },
+    {
+        "id": 527,
+        "coordinates_wkt": "POINT (39.71 47.16)",
+        "name": "Rostov-Na-Donu"
+    },
+    {
+        "id": 528,
+        "coordinates_wkt": "POINT (34.76 32.06)",
+        "name": "Tel Aviv Yafo"
+    },
+    {
+        "id": 529,
+        "coordinates_wkt": "POINT (10.25 36.8)",
+        "name": "Tunis"
+    },
+    {
+        "id": 530,
+        "coordinates_wkt": "POINT (5.08 36.75)",
+        "name": "Bejaia"
+    },
+    {
+        "id": 531,
+        "coordinates_wkt": "POINT (3.06 36.76)",
+        "name": "Alger"
+    },
+    {
+        "id": 532,
+        "coordinates_wkt": "POINT (-16.51 16.01)",
+        "name": "St Louis"
+    },
+    {
+        "id": 533,
+        "coordinates_wkt": "POINT (3.3 6.41)",
+        "name": "Tin Can Island"
+    },
+    {
+        "id": 534,
+        "coordinates_wkt": "POINT (40.73 -15.03)",
+        "name": "Mocambique"
+    },
+    {
+        "id": 535,
+        "coordinates_wkt": "POINT (42.75 13)",
+        "name": "Assab"
+    },
+    {
+        "id": 536,
+        "coordinates_wkt": "POINT (39.46 15.61)",
+        "name": "Massawa"
+    },
+    {
+        "id": 537,
+        "coordinates_wkt": "POINT (34.95 29.55)",
+        "name": "Elat"
+    },
+    {
+        "id": 538,
+        "coordinates_wkt": "POINT (47.96 29.38)",
+        "name": "Al Kuwayt"
+    },
+    {
+        "id": 539,
+        "coordinates_wkt": "POINT (72.83 18.83)",
+        "name": "Bombay"
+    },
+    {
+        "id": 540,
+        "coordinates_wkt": "POINT (72.93 18.95)",
+        "name": "Jawaharlal Nehru Port"
+    },
+    {
+        "id": 541,
+        "coordinates_wkt": "POINT (76.23 9.96)",
+        "name": "Cochin"
+    },
+    {
+        "id": 542,
+        "coordinates_wkt": "POINT (80.3 13.1)",
+        "name": "Madras"
+    },
+    {
+        "id": 543,
+        "coordinates_wkt": "POINT (88.31 22.55)",
+        "name": "Calcutta"
+    },
+    {
+        "id": 544,
+        "coordinates_wkt": "POINT (98.4 7.83)",
+        "name": "Phuket"
+    },
+    {
+        "id": 545,
+        "coordinates_wkt": "POINT (100.35 5.41)",
+        "name": "Pulau Pinang"
+    },
+    {
+        "id": 546,
+        "coordinates_wkt": "POINT (98.68 3.78)",
+        "name": "Belawan"
+    },
+    {
+        "id": 547,
+        "coordinates_wkt": "POINT (110.41 -6.95)",
+        "name": "Semarang"
+    },
+    {
+        "id": 548,
+        "coordinates_wkt": "POINT (123.58 -10.16)",
+        "name": "Kupang"
+    },
+    {
+        "id": 549,
+        "coordinates_wkt": "POINT (110.35 1.56)",
+        "name": "Kuching"
+    },
+    {
+        "id": 550,
+        "coordinates_wkt": "POINT (113.96 4.38)",
+        "name": "Miri"
+    },
+    {
+        "id": 551,
+        "coordinates_wkt": "POINT (116.06 5.98)",
+        "name": "Kota Kinabalu"
+    },
+    {
+        "id": 552,
+        "coordinates_wkt": "POINT (118.11 5.83)",
+        "name": "Pelabuhan Sandakan"
+    },
+    {
+        "id": 553,
+        "coordinates_wkt": "POINT (119.4 -5.13)",
+        "name": "Ujungpandang"
+    },
+    {
+        "id": 554,
+        "coordinates_wkt": "POINT (125.61 7.06)",
+        "name": "Davao"
+    },
+    {
+        "id": 555,
+        "coordinates_wkt": "POINT (118.75 32.08)",
+        "name": "Nanjing"
+    },
+    {
+        "id": 556,
+        "coordinates_wkt": "POINT (114.28 30.58)",
+        "name": "Hankow"
+    },
+    {
+        "id": 557,
+        "coordinates_wkt": "POINT (112.98 28.2)",
+        "name": "Chang Sha"
+    },
+    {
+        "id": 558,
+        "coordinates_wkt": "POINT (135.16 48.5)",
+        "name": "Khabarovsk"
+    },
+    {
+        "id": 559,
+        "coordinates_wkt": "POINT (158.65 53.05)",
+        "name": "Petropavlovsk"
+    },
+    {
+        "id": 560,
+        "coordinates_wkt": "POINT (12.13545347 -15.19361111)",
+        "name": "Namibe"
+    },
+    {
+        "id": 561,
+        "coordinates_wkt": "POINT (-62.27090695 -38.79138889)",
+        "name": "Bahia Blanca"
+    },
+    {
+        "id": 562,
+        "coordinates_wkt": "POINT (-57.89022379 -34.85527778)",
+        "name": "La Plata"
+    },
+    {
+        "id": 563,
+        "coordinates_wkt": "POINT (-68.30088339 -54.80944444)",
+        "name": "Ushuaia"
+    },
+    {
+        "id": 564,
+        "coordinates_wkt": "POINT (-65.03333333 -42.73611111)",
+        "name": "Puerto Madryn"
+    },
+    {
+        "id": 565,
+        "coordinates_wkt": "POINT (-170.687927 -14.27416667)",
+        "name": "Pago Pago"
+    },
+    {
+        "id": 566,
+        "coordinates_wkt": "POINT (149.2237338 -21.10833333)",
+        "name": "Mackay"
+    },
+    {
+        "id": 567,
+        "coordinates_wkt": "POINT (135.8694935 -34.71833333)",
+        "name": "Port Lincoln"
+    },
+    {
+        "id": 568,
+        "coordinates_wkt": "POINT (138.0072438 -33.17694444)",
+        "name": "Port Pirie"
+    },
+    {
+        "id": 569,
+        "coordinates_wkt": "POINT (117.8866902 -35.03166667)",
+        "name": "Albany"
+    },
+    {
+        "id": 570,
+        "coordinates_wkt": "POINT (115.4709069 -20.72583333)",
+        "name": "Barrow Island"
+    },
+    {
+        "id": 571,
+        "coordinates_wkt": "POINT (115.6512367 -33.31527778)",
+        "name": "Bunbury"
+    },
+    {
+        "id": 572,
+        "coordinates_wkt": "POINT (145.9081272 -41.05277778)",
+        "name": "Burnie"
+    },
+    {
+        "id": 573,
+        "coordinates_wkt": "POINT (144.3873969 -38.12666667)",
+        "name": "Geelong"
+    },
+    {
+        "id": 574,
+        "coordinates_wkt": "POINT (151.2517668 -23.83)",
+        "name": "Gladstone"
+    },
+    {
+        "id": 575,
+        "coordinates_wkt": "POINT (151.7691402 -32.9075)",
+        "name": "Newcastle"
+    },
+    {
+        "id": 576,
+        "coordinates_wkt": "POINT (150.8935807 -34.4625)",
+        "name": "Port Kembla"
+    },
+    {
+        "id": 577,
+        "coordinates_wkt": "POINT (141.609364 -38.34916667)",
+        "name": "Portland"
+    },
+    {
+        "id": 578,
+        "coordinates_wkt": "POINT (142.2189635 -10.58555556)",
+        "name": "Thursday Island"
+    },
+    {
+        "id": 579,
+        "coordinates_wkt": "POINT (146.8247939 -19.25083333)",
+        "name": "Townsville"
+    },
+    {
+        "id": 580,
+        "coordinates_wkt": "POINT (141.8666667 -12.67)",
+        "name": "Weipa"
+    },
+    {
+        "id": 581,
+        "coordinates_wkt": "POINT (137.5907538 -33.03833333)",
+        "name": "Whyalla"
+    },
+    {
+        "id": 582,
+        "coordinates_wkt": "POINT (128.1008834 -15.45138889)",
+        "name": "Wyndham"
+    },
+    {
+        "id": 583,
+        "coordinates_wkt": "POINT (4.386160188 50.88611111)",
+        "name": "Brussel (Bruxelles)"
+    },
+    {
+        "id": 584,
+        "coordinates_wkt": "POINT (3.76737338 51.11444444)",
+        "name": "Gent (Ghent)"
+    },
+    {
+        "id": 585,
+        "coordinates_wkt": "POINT (-39.02567727 -14.78027778)",
+        "name": "Ilheus"
+    },
+    {
+        "id": 586,
+        "coordinates_wkt": "POINT (-35.72232038 -9.678888889)",
+        "name": "Maceio"
+    },
+    {
+        "id": 587,
+        "coordinates_wkt": "POINT (-35.2 -5.783055556)",
+        "name": "Natal"
+    },
+    {
+        "id": 588,
+        "coordinates_wkt": "POINT (-52.0762073 -32.05611111)",
+        "name": "Rio Grande"
+    },
+    {
+        "id": 589,
+        "coordinates_wkt": "POINT (-40.33510012 -20.32333333)",
+        "name": "Vitoria"
+    },
+    {
+        "id": 590,
+        "coordinates_wkt": "POINT (-127.6888104 52.35083333)",
+        "name": "Ocean Falls"
+    },
+    {
+        "id": 591,
+        "coordinates_wkt": "POINT (-53.9868669 47.29305556)",
+        "name": "Argentia"
+    },
+    {
+        "id": 592,
+        "coordinates_wkt": "POINT (-65.65 47.61666667)",
+        "name": "Bathurst"
+    },
+    {
+        "id": 593,
+        "coordinates_wkt": "POINT (-64.43722026 48.82444444)",
+        "name": "Gaspe"
+    },
+    {
+        "id": 594,
+        "coordinates_wkt": "POINT (-124.8193168 49.23)",
+        "name": "Port Alberni"
+    },
+    {
+        "id": 595,
+        "coordinates_wkt": "POINT (-124.5247939 49.835)",
+        "name": "Powell River"
+    },
+    {
+        "id": 596,
+        "coordinates_wkt": "POINT (-66.38386337 50.20638889)",
+        "name": "Sept-Iles"
+    },
+    {
+        "id": 597,
+        "coordinates_wkt": "POINT (-60.20300353 46.14194444)",
+        "name": "Sydney"
+    },
+    {
+        "id": 598,
+        "coordinates_wkt": "POINT (-72.53898704 46.33583333)",
+        "name": "Trois-Rivieres (Three Rivers)"
+    },
+    {
+        "id": 599,
+        "coordinates_wkt": "POINT (-66.12090695 43.83555556)",
+        "name": "Yarmouth"
+    },
+    {
+        "id": 600,
+        "coordinates_wkt": "POINT (-68.50812721 48.47777778)",
+        "name": "Rimouski"
+    },
+    {
+        "id": 601,
+        "coordinates_wkt": "POINT (-69.56808009 47.84666667)",
+        "name": "Riviere-du-Loup"
+    },
+    {
+        "id": 602,
+        "coordinates_wkt": "POINT (-55.57709069 51.36666667)",
+        "name": "Saint-Anthony"
+    },
+    {
+        "id": 603,
+        "coordinates_wkt": "POINT (-63.78704358 46.38861111)",
+        "name": "Summerside"
+    },
+    {
+        "id": 604,
+        "coordinates_wkt": "POINT (-70.32196702 -18.47305556)",
+        "name": "Arica"
+    },
+    {
+        "id": 605,
+        "coordinates_wkt": "POINT (-70.20565371 -22.08611111)",
+        "name": "Tocopilla"
+    },
+    {
+        "id": 606,
+        "coordinates_wkt": "POINT (109.0705536 21.45861111)",
+        "name": "Beihai"
+    },
+    {
+        "id": 607,
+        "coordinates_wkt": "POINT (113.0019435 22.5025)",
+        "name": "Jiangmen"
+    },
+    {
+        "id": 608,
+        "coordinates_wkt": "POINT (120.8847468 27.99833333)",
+        "name": "Wenzhou"
+    },
+    {
+        "id": 609,
+        "coordinates_wkt": "POINT (121.388987 37.57111111)",
+        "name": "Yantai"
+    },
+    {
+        "id": 610,
+        "coordinates_wkt": "POINT (113.5842167 22.23972222)",
+        "name": "Zhuhai"
+    },
+    {
+        "id": 611,
+        "coordinates_wkt": "POINT (-74.21702002 11.25194444)",
+        "name": "Santa Marta"
+    },
+    {
+        "id": 612,
+        "coordinates_wkt": "POINT (-77.05335689 3.883055556)",
+        "name": "Buenaventura"
+    },
+    {
+        "id": 613,
+        "coordinates_wkt": "POINT (-23.50318021 14.94472222)",
+        "name": "Praia"
+    },
+    {
+        "id": 614,
+        "coordinates_wkt": "POINT (-83.16666667 8.637777778)",
+        "name": "Golfito"
+    },
+    {
+        "id": 615,
+        "coordinates_wkt": "POINT (-80.45371025 22.14)",
+        "name": "Cienfuegos"
+    },
+    {
+        "id": 616,
+        "coordinates_wkt": "POINT (-77.13351001 20.3375)",
+        "name": "Manzanillo"
+    },
+    {
+        "id": 617,
+        "coordinates_wkt": "POINT (-81.53704358 23.05138889)",
+        "name": "Matanzas"
+    },
+    {
+        "id": 618,
+        "coordinates_wkt": "POINT (-75.85671378 20.00166667)",
+        "name": "Santiago de Cuba"
+    },
+    {
+        "id": 619,
+        "coordinates_wkt": "POINT (7.192873969 53.34611111)",
+        "name": "Emden"
+    },
+    {
+        "id": 620,
+        "coordinates_wkt": "POINT (9.436866902 54.80333333)",
+        "name": "Flensburg"
+    },
+    {
+        "id": 621,
+        "coordinates_wkt": "POINT (8.122143698 53.53)",
+        "name": "Wilhelmshaven"
+    },
+    {
+        "id": 622,
+        "coordinates_wkt": "POINT (8.433863369 55.46555556)",
+        "name": "Esbjerg"
+    },
+    {
+        "id": 623,
+        "coordinates_wkt": "POINT (10.3868669 55.4175)",
+        "name": "Odense"
+    },
+    {
+        "id": 624,
+        "coordinates_wkt": "POINT (9.776737338 54.90694444)",
+        "name": "Sonderborg"
+    },
+    {
+        "id": 625,
+        "coordinates_wkt": "POINT (14.68775029 55.09611111)",
+        "name": "Ronne"
+    },
+    {
+        "id": 626,
+        "coordinates_wkt": "POINT (-71.08651355 18.21222222)",
+        "name": "Barahona"
+    },
+    {
+        "id": 627,
+        "coordinates_wkt": "POINT (-71.654947 17.92527778)",
+        "name": "Cabo Rojo"
+    },
+    {
+        "id": 628,
+        "coordinates_wkt": "POINT (-0.636690224 35.7125)",
+        "name": "Oran"
+    },
+    {
+        "id": 629,
+        "coordinates_wkt": "POINT (-8.387926973 43.36305556)",
+        "name": "A Coruna"
+    },
+    {
+        "id": 630,
+        "coordinates_wkt": "POINT (-2.471260306 36.83222222)",
+        "name": "Almeria"
+    },
+    {
+        "id": 631,
+        "coordinates_wkt": "POINT (-5.688633687 43.55861111)",
+        "name": "Gijon"
+    },
+    {
+        "id": 632,
+        "coordinates_wkt": "POINT (-1.986866902 43.32277778)",
+        "name": "San Sebastian"
+    },
+    {
+        "id": 633,
+        "coordinates_wkt": "POINT (-3.804946996 43.44222222)",
+        "name": "Santander"
+    },
+    {
+        "id": 634,
+        "coordinates_wkt": "POINT (1.220200236 41.09611111)",
+        "name": "Tarragona"
+    },
+    {
+        "id": 635,
+        "coordinates_wkt": "POINT (25.45459364 65.01583333)",
+        "name": "Oulu"
+    },
+    {
+        "id": 636,
+        "coordinates_wkt": "POINT (-1.493757362 43.51972222)",
+        "name": "Bayonne"
+    },
+    {
+        "id": 637,
+        "coordinates_wkt": "POINT (1.575500589 50.72361111)",
+        "name": "Boulogne-sur-Mer"
+    },
+    {
+        "id": 638,
+        "coordinates_wkt": "POINT (-4.471436985 48.38055556)",
+        "name": "Brest"
+    },
+    {
+        "id": 639,
+        "coordinates_wkt": "POINT (7.009187279 43.54805556)",
+        "name": "Cannes"
+    },
+    {
+        "id": 640,
+        "coordinates_wkt": "POINT (-1.617550059 49.65222222)",
+        "name": "Cherbourg"
+    },
+    {
+        "id": 641,
+        "coordinates_wkt": "POINT (1.08598351 49.92638889)",
+        "name": "Dieppe"
+    },
+    {
+        "id": 642,
+        "coordinates_wkt": "POINT (-1.601060071 48.83472222)",
+        "name": "Granville"
+    },
+    {
+        "id": 643,
+        "coordinates_wkt": "POINT (-1.157773852 46.14666667)",
+        "name": "La Rochelle"
+    },
+    {
+        "id": 644,
+        "coordinates_wkt": "POINT (-3.352120141 47.73416667)",
+        "name": "Lorient"
+    },
+    {
+        "id": 645,
+        "coordinates_wkt": "POINT (-3.834923439 48.58527778)",
+        "name": "Morlaix"
+    },
+    {
+        "id": 646,
+        "coordinates_wkt": "POINT (-0.953003534 45.94916667)",
+        "name": "Rochefort"
+    },
+    {
+        "id": 647,
+        "coordinates_wkt": "POINT (5.904770318 43.11055556)",
+        "name": "Toulon"
+    },
+    {
+        "id": 648,
+        "coordinates_wkt": "POINT (9.500883392 0.288333333)",
+        "name": "Owendo"
+    },
+    {
+        "id": 649,
+        "coordinates_wkt": "POINT (-2.074617197 57.14222222)",
+        "name": "Aberdeen"
+    },
+    {
+        "id": 650,
+        "coordinates_wkt": "POINT (-3.007243816 53.43638889)",
+        "name": "Liverpool"
+    },
+    {
+        "id": 651,
+        "coordinates_wkt": "POINT (-4.154063604 50.36472222)",
+        "name": "Plymouth"
+    },
+    {
+        "id": 652,
+        "coordinates_wkt": "POINT (-1.1 50.8075)",
+        "name": "Portsmouth"
+    },
+    {
+        "id": 653,
+        "coordinates_wkt": "POINT (41.65053004 41.64888889)",
+        "name": "Batumi"
+    },
+    {
+        "id": 654,
+        "coordinates_wkt": "POINT (24.40194346 40.93138889)",
+        "name": "Kavala"
+    },
+    {
+        "id": 655,
+        "coordinates_wkt": "POINT (26.13775029 38.37722222)",
+        "name": "Chios"
+    },
+    {
+        "id": 656,
+        "coordinates_wkt": "POINT (22.10812721 37.02277778)",
+        "name": "Kalamata"
+    },
+    {
+        "id": 657,
+        "coordinates_wkt": "POINT (21.73492344 38.25444444)",
+        "name": "Patras"
+    },
+    {
+        "id": 658,
+        "coordinates_wkt": "POINT (22.93669022 39.35277778)",
+        "name": "Volos"
+    },
+    {
+        "id": 659,
+        "coordinates_wkt": "POINT (-52.11914016 70.67472222)",
+        "name": "Uummannaq"
+    },
+    {
+        "id": 660,
+        "coordinates_wkt": "POINT (-88.6040636 15.72833333)",
+        "name": "Puerto Barrios"
+    },
+    {
+        "id": 661,
+        "coordinates_wkt": "POINT (13.83474676 44.87166667)",
+        "name": "Pula"
+    },
+    {
+        "id": 662,
+        "coordinates_wkt": "POINT (14.42232038 45.3275)",
+        "name": "Rijeka"
+    },
+    {
+        "id": 663,
+        "coordinates_wkt": "POINT (16.42550059 43.515)",
+        "name": "Split"
+    },
+    {
+        "id": 664,
+        "coordinates_wkt": "POINT (114.5553004 -3.321944444)",
+        "name": "Banjarmasin"
+    },
+    {
+        "id": 665,
+        "coordinates_wkt": "POINT (107.6270907 -2.75)",
+        "name": "Tanjung Pandan"
+    },
+    {
+        "id": 666,
+        "coordinates_wkt": "POINT (92.72391048 11.67222222)",
+        "name": "Port Blair"
+    },
+    {
+        "id": 667,
+        "coordinates_wkt": "POINT (70.22232038 23.01361111)",
+        "name": "Kandla"
+    },
+    {
+        "id": 668,
+        "coordinates_wkt": "POINT (79.82232038 11.91416667)",
+        "name": "Pondicherry"
+    },
+    {
+        "id": 669,
+        "coordinates_wkt": "POINT (-8.424440518 51.90111111)",
+        "name": "Cork"
+    },
+    {
+        "id": 670,
+        "coordinates_wkt": "POINT (-9.043757362 53.27)",
+        "name": "Galway"
+    },
+    {
+        "id": 671,
+        "coordinates_wkt": "POINT (50.8368669 28.98472222)",
+        "name": "Bushehr"
+    },
+    {
+        "id": 672,
+        "coordinates_wkt": "POINT (13.49234393 43.61833333)",
+        "name": "Ancona"
+    },
+    {
+        "id": 673,
+        "coordinates_wkt": "POINT (16.85530035 41.13694444)",
+        "name": "Bari"
+    },
+    {
+        "id": 674,
+        "coordinates_wkt": "POINT (9.107597173 39.20416667)",
+        "name": "Cagliari"
+    },
+    {
+        "id": 675,
+        "coordinates_wkt": "POINT (9.517903416 40.92277778)",
+        "name": "Olbia"
+    },
+    {
+        "id": 676,
+        "coordinates_wkt": "POINT (14.2237338 42.46777778)",
+        "name": "Pescara"
+    },
+    {
+        "id": 677,
+        "coordinates_wkt": "POINT (15.64375736 38.12444444)",
+        "name": "Reggio Calabria"
+    },
+    {
+        "id": 678,
+        "coordinates_wkt": "POINT (12.50388693 38.01361111)",
+        "name": "Trapani"
+    },
+    {
+        "id": 679,
+        "coordinates_wkt": "POINT (140.742874 40.83138889)",
+        "name": "Aomori"
+    },
+    {
+        "id": 680,
+        "coordinates_wkt": "POINT (140.7090106 41.78777778)",
+        "name": "Hakodate"
+    },
+    {
+        "id": 681,
+        "coordinates_wkt": "POINT (130.5687868 31.5925)",
+        "name": "Kagoshima"
+    },
+    {
+        "id": 682,
+        "coordinates_wkt": "POINT (133.5570671 33.52416667)",
+        "name": "Kochi"
+    },
+    {
+        "id": 683,
+        "coordinates_wkt": "POINT (144.3522968 42.98861111)",
+        "name": "Kushiro"
+    },
+    {
+        "id": 684,
+        "coordinates_wkt": "POINT (133.2595406 33.97083333)",
+        "name": "Niihama"
+    },
+    {
+        "id": 685,
+        "coordinates_wkt": "POINT (131.6760306 33.27222222)",
+        "name": "Oita"
+    },
+    {
+        "id": 686,
+        "coordinates_wkt": "POINT (130.9010601 33.93444444)",
+        "name": "Shimonoseki"
+    },
+    {
+        "id": 687,
+        "coordinates_wkt": "POINT (141.6533569 42.6375)",
+        "name": "Tomakomai"
+    },
+    {
+        "id": 688,
+        "coordinates_wkt": "POINT (137.2226737 36.75722222)",
+        "name": "Toyama"
+    },
+    {
+        "id": 689,
+        "coordinates_wkt": "POINT (131.2377503 33.93833333)",
+        "name": "Ube"
+    },
+    {
+        "id": 690,
+        "coordinates_wkt": "POINT (40.12302709 -3.213611111)",
+        "name": "Malindi"
+    },
+    {
+        "id": 691,
+        "coordinates_wkt": "POINT (81.20388693 8.558333333)",
+        "name": "Trincomalee"
+    },
+    {
+        "id": 692,
+        "coordinates_wkt": "POINT (21.13421673 55.68722222)",
+        "name": "Klaipeda"
+    },
+    {
+        "id": 693,
+        "coordinates_wkt": "POINT (-9.242697291 32.3075)",
+        "name": "Safi"
+    },
+    {
+        "id": 694,
+        "coordinates_wkt": "POINT (-116.6228504 31.85083333)",
+        "name": "Ensenada"
+    },
+    {
+        "id": 695,
+        "coordinates_wkt": "POINT (-110.8687868 27.91916667)",
+        "name": "Guaymas"
+    },
+    {
+        "id": 696,
+        "coordinates_wkt": "POINT (-104.3008834 19.07055556)",
+        "name": "Manzanillo"
+    },
+    {
+        "id": 697,
+        "coordinates_wkt": "POINT (-95.20194346 16.15722222)",
+        "name": "Salina Cruz"
+    },
+    {
+        "id": 698,
+        "coordinates_wkt": "POINT (145.7349234 15.22583333)",
+        "name": "Saipan"
+    },
+    {
+        "id": 699,
+        "coordinates_wkt": "POINT (-17.0418139 20.9075)",
+        "name": "Nouadhibou"
+    },
+    {
+        "id": 700,
+        "coordinates_wkt": "POINT (15.15371025 -26.63777778)",
+        "name": "Luderitz"
+    },
+    {
+        "id": 701,
+        "coordinates_wkt": "POINT (-83.75689046 12.01194444)",
+        "name": "Bluefields"
+    },
+    {
+        "id": 702,
+        "coordinates_wkt": "POINT (6.171613663 62.4725)",
+        "name": "Alesund"
+    },
+    {
+        "id": 703,
+        "coordinates_wkt": "POINT (29.71772674 70.63416667)",
+        "name": "Batsfjord"
+    },
+    {
+        "id": 704,
+        "coordinates_wkt": "POINT (14.37267373 67.28888889)",
+        "name": "Bodo"
+    },
+    {
+        "id": 705,
+        "coordinates_wkt": "POINT (23.67108363 70.66722222)",
+        "name": "Hammerfest"
+    },
+    {
+        "id": 706,
+        "coordinates_wkt": "POINT (5.25565371 59.41222222)",
+        "name": "Haugesund"
+    },
+    {
+        "id": 707,
+        "coordinates_wkt": "POINT (30.05565371 69.72833333)",
+        "name": "Kirkenes"
+    },
+    {
+        "id": 708,
+        "coordinates_wkt": "POINT (7.733333333 63.115)",
+        "name": "Kristiansund"
+    },
+    {
+        "id": 709,
+        "coordinates_wkt": "POINT (14.1237338 66.315)",
+        "name": "Mo i Rana"
+    },
+    {
+        "id": 710,
+        "coordinates_wkt": "POINT (7.157420495 62.73638889)",
+        "name": "Molde"
+    },
+    {
+        "id": 711,
+        "coordinates_wkt": "POINT (13.1868669 65.85194444)",
+        "name": "Mosjoen"
+    },
+    {
+        "id": 712,
+        "coordinates_wkt": "POINT (17.41861013 68.43861111)",
+        "name": "Narvik"
+    },
+    {
+        "id": 713,
+        "coordinates_wkt": "POINT (5.737220259 58.97888889)",
+        "name": "Stavanger"
+    },
+    {
+        "id": 714,
+        "coordinates_wkt": "POINT (29.73757362 70.07111111)",
+        "name": "Vadso"
+    },
+    {
+        "id": 715,
+        "coordinates_wkt": "POINT (31.10388693 70.37333333)",
+        "name": "Vardo"
+    },
+    {
+        "id": 716,
+        "coordinates_wkt": "POINT (174.0377503 -39.05722222)",
+        "name": "New Plymouth"
+    },
+    {
+        "id": 717,
+        "coordinates_wkt": "POINT (178.0224971 -38.6725)",
+        "name": "Gisborne"
+    },
+    {
+        "id": 718,
+        "coordinates_wkt": "POINT (171.20053 -42.44472222)",
+        "name": "Greymouth"
+    },
+    {
+        "id": 719,
+        "coordinates_wkt": "POINT (176.9180801 -39.475)",
+        "name": "Napier"
+    },
+    {
+        "id": 720,
+        "coordinates_wkt": "POINT (176.1740872 -37.65944444)",
+        "name": "Tauranga"
+    },
+    {
+        "id": 721,
+        "coordinates_wkt": "POINT (174.9895171 -39.94416667)",
+        "name": "Wanganui"
+    },
+    {
+        "id": 722,
+        "coordinates_wkt": "POINT (171.5912839 -41.75027778)",
+        "name": "Westport"
+    },
+    {
+        "id": 723,
+        "coordinates_wkt": "POINT (174.3426973 -35.75111111)",
+        "name": "Whangarei"
+    },
+    {
+        "id": 724,
+        "coordinates_wkt": "POINT (171.2542403 -44.38916667)",
+        "name": "Timaru"
+    },
+    {
+        "id": 725,
+        "coordinates_wkt": "POINT (-81.2746172 -4.573055556)",
+        "name": "Talara"
+    },
+    {
+        "id": 726,
+        "coordinates_wkt": "POINT (123.6198469 12.36805556)",
+        "name": "Masbate"
+    },
+    {
+        "id": 727,
+        "coordinates_wkt": "POINT (120.2747939 14.80833333)",
+        "name": "Subic Bay"
+    },
+    {
+        "id": 728,
+        "coordinates_wkt": "POINT (150.4510601 -10.31277778)",
+        "name": "Alotau"
+    },
+    {
+        "id": 729,
+        "coordinates_wkt": "POINT (150.7866902 -2.584722222)",
+        "name": "Kavieng"
+    },
+    {
+        "id": 730,
+        "coordinates_wkt": "POINT (155.626914 -6.215277778)",
+        "name": "Kieta"
+    },
+    {
+        "id": 731,
+        "coordinates_wkt": "POINT (152.1851001 -4.241111111)",
+        "name": "Rabaul"
+    },
+    {
+        "id": 732,
+        "coordinates_wkt": "POINT (141.2923439 -2.683611111)",
+        "name": "Vanimo"
+    },
+    {
+        "id": 733,
+        "coordinates_wkt": "POINT (-66.61024735 17.96805556)",
+        "name": "Ponce"
+    },
+    {
+        "id": 734,
+        "coordinates_wkt": "POINT (-8.867020024 37.94277778)",
+        "name": "Sines"
+    },
+    {
+        "id": 735,
+        "coordinates_wkt": "POINT (-28.62196702 38.53)",
+        "name": "Horta"
+    },
+    {
+        "id": 736,
+        "coordinates_wkt": "POINT (40.55636042 64.5425)",
+        "name": "Arkhangelsk"
+    },
+    {
+        "id": 737,
+        "coordinates_wkt": "POINT (33.04146054 68.9725)",
+        "name": "Murmansk"
+    },
+    {
+        "id": 738,
+        "coordinates_wkt": "POINT (128.8728504 71.64305556)",
+        "name": "Tiksi"
+    },
+    {
+        "id": 739,
+        "coordinates_wkt": "POINT (42.5352768 16.89027778)",
+        "name": "Jizan"
+    },
+    {
+        "id": 740,
+        "coordinates_wkt": "POINT (45 10.44083333)",
+        "name": "Berbera"
+    },
+    {
+        "id": 741,
+        "coordinates_wkt": "POINT (-57.00176678 5.951666667)",
+        "name": "Nieuw Nickerie"
+    },
+    {
+        "id": 742,
+        "coordinates_wkt": "POINT (13.00159011 55.62555556)",
+        "name": "Malmo"
+    },
+    {
+        "id": 743,
+        "coordinates_wkt": "POINT (17.19269729 60.68444444)",
+        "name": "Gavle"
+    },
+    {
+        "id": 744,
+        "coordinates_wkt": "POINT (12.85 56.655)",
+        "name": "Halmstad"
+    },
+    {
+        "id": 745,
+        "coordinates_wkt": "POINT (12.68757362 56.03333333)",
+        "name": "Helsingborg"
+    },
+    {
+        "id": 746,
+        "coordinates_wkt": "POINT (17.11861013 61.72166667)",
+        "name": "Hudiksvall"
+    },
+    {
+        "id": 747,
+        "coordinates_wkt": "POINT (16.36914016 56.65916667)",
+        "name": "Kalmar"
+    },
+    {
+        "id": 748,
+        "coordinates_wkt": "POINT (18.72585395 63.27611111)",
+        "name": "Ornskoldsvik"
+    },
+    {
+        "id": 749,
+        "coordinates_wkt": "POINT (15.3 56.17472222)",
+        "name": "Ronneby"
+    },
+    {
+        "id": 750,
+        "coordinates_wkt": "POINT (17.0893404 61.30833333)",
+        "name": "Soderhamn"
+    },
+    {
+        "id": 751,
+        "coordinates_wkt": "POINT (16.65194346 57.75583333)",
+        "name": "Vastervik"
+    },
+    {
+        "id": 752,
+        "coordinates_wkt": "POINT (18.2746172 57.63555556)",
+        "name": "Visby"
+    },
+    {
+        "id": 753,
+        "coordinates_wkt": "POINT (27.50795053 40.9675)",
+        "name": "Tekirdag"
+    },
+    {
+        "id": 754,
+        "coordinates_wkt": "POINT (39.10318021 -5.065555556)",
+        "name": "Tanga"
+    },
+    {
+        "id": 755,
+        "coordinates_wkt": "POINT (32.60742049 46.61861111)",
+        "name": "Kherson"
+    },
+    {
+        "id": 756,
+        "coordinates_wkt": "POINT (-57.84216726 -34.47166667)",
+        "name": "Colonia"
+    },
+    {
+        "id": 757,
+        "coordinates_wkt": "POINT (-145.7563604 60.55)",
+        "name": "Cordova"
+    },
+    {
+        "id": 758,
+        "coordinates_wkt": "POINT (-131.6712603 55.34694444)",
+        "name": "Ketchikan"
+    },
+    {
+        "id": 759,
+        "coordinates_wkt": "POINT (-68.76984688 44.79194444)",
+        "name": "Bangor"
+    },
+    {
+        "id": 760,
+        "coordinates_wkt": "POINT (-121.3230271 37.95055556)",
+        "name": "Stockton"
+    },
+    {
+        "id": 761,
+        "coordinates_wkt": "POINT (-73.17638398 41.1725)",
+        "name": "Bridgeport"
+    },
+    {
+        "id": 762,
+        "coordinates_wkt": "POINT (-72.90954064 41.28638889)",
+        "name": "New Haven"
+    },
+    {
+        "id": 763,
+        "coordinates_wkt": "POINT (-80.10865724 26.08444444)",
+        "name": "Port Everglades"
+    },
+    {
+        "id": 764,
+        "coordinates_wkt": "POINT (-81.12249706 32.11083333)",
+        "name": "Savannah"
+    },
+    {
+        "id": 765,
+        "coordinates_wkt": "POINT (-70.23951708 43.65333333)",
+        "name": "Portland"
+    },
+    {
+        "id": 766,
+        "coordinates_wkt": "POINT (-89.08845701 30.35861111)",
+        "name": "Gulfport"
+    },
+    {
+        "id": 767,
+        "coordinates_wkt": "POINT (-70.76861013 43.0875)",
+        "name": "Portsmouth"
+    },
+    {
+        "id": 768,
+        "coordinates_wkt": "POINT (-74.13722026 40.7)",
+        "name": "Newark"
+    },
+    {
+        "id": 769,
+        "coordinates_wkt": "POINT (-123.8262073 46.18944444)",
+        "name": "Astoria"
+    },
+    {
+        "id": 770,
+        "coordinates_wkt": "POINT (-80.10865724 26.08444444)",
+        "name": "Port Everglades"
+    },
+    {
+        "id": 771,
+        "coordinates_wkt": "POINT (-97.40459364 27.81277778)",
+        "name": "Corpus Christi"
+    },
+    {
+        "id": 772,
+        "coordinates_wkt": "POINT (-88.53722026 30.35138889)",
+        "name": "Pascagoula"
+    },
+    {
+        "id": 773,
+        "coordinates_wkt": "POINT (-122.4042403 47.26722222)",
+        "name": "Tacoma"
+    },
+    {
+        "id": 774,
+        "coordinates_wkt": "POINT (-94.08421673 30.07777778)",
+        "name": "Beaumont"
+    },
+    {
+        "id": 775,
+        "coordinates_wkt": "POINT (-122.9007067 47.05333333)",
+        "name": "Olympia"
+    },
+    {
+        "id": 776,
+        "coordinates_wkt": "POINT (-123.4351001 48.13083333)",
+        "name": "Port Angeles"
+    },
+    {
+        "id": 777,
+        "coordinates_wkt": "POINT (-122.7531802 48.11444444)",
+        "name": "Port Townsend"
+    },
+    {
+        "id": 778,
+        "coordinates_wkt": "POINT (-67.99305065 10.47722222)",
+        "name": "Puerto Cabello"
+    },
+    {
+        "id": 779,
+        "coordinates_wkt": "POINT (49.14375736 14.52222222)",
+        "name": "Mukalla"
+    },
+    {
+        "id": 780,
+        "coordinates_wkt": "POINT (27.90477032 -33.02527778)",
+        "name": "East London"
+    },
+    {
+        "id": 781,
+        "coordinates_wkt": "POINT (21.41825677 -34.37527778)",
+        "name": "Mossel Bay"
+    },
+    {
+        "id": 782,
+        "coordinates_wkt": "POINT (32.05618375 -28.80472222)",
+        "name": "Richards Bay"
+    },
+    {
+        "id": 783,
+        "coordinates_wkt": "POINT (-80.1 42.15)",
+        "name": "Erie"
+    },
+    {
+        "id": 784,
+        "coordinates_wkt": "POINT (-83.86 43.6)",
+        "name": "Bay City"
+    },
+    {
+        "id": 785,
+        "coordinates_wkt": "POINT (-87.88 43.03)",
+        "name": "Milwaukee"
+    },
+    {
+        "id": 786,
+        "coordinates_wkt": "POINT (-124.21 43.36)",
+        "name": "Coos Bay"
+    },
+    {
+        "id": 787,
+        "coordinates_wkt": "POINT (-135.33 57.05)",
+        "name": "Sitka"
+    },
+    {
+        "id": 788,
+        "coordinates_wkt": "POINT (-152.4 57.78)",
+        "name": "Kodiak"
+    },
+    {
+        "id": 789,
+        "coordinates_wkt": "POINT (13.56931684 -12.33694444)",
+        "name": "Lobito"
+    },
+    {
+        "id": 790,
+        "coordinates_wkt": "POINT (54.37267373 24.525)",
+        "name": "Abu Dhabi"
+    },
+    {
+        "id": 791,
+        "coordinates_wkt": "POINT (-67.45989399 -45.85583333)",
+        "name": "Comodoro Rivadavia"
+    },
+    {
+        "id": 792,
+        "coordinates_wkt": "POINT (-57.53333333 -38.04277778)",
+        "name": "Mar del Plata"
+    },
+    {
+        "id": 793,
+        "coordinates_wkt": "POINT (145.7755006 -16.92972222)",
+        "name": "Cairns"
+    },
+    {
+        "id": 794,
+        "coordinates_wkt": "POINT (122.2091873 -18.0025)",
+        "name": "Broome"
+    },
+    {
+        "id": 795,
+        "coordinates_wkt": "POINT (146.3675501 -41.16777778)",
+        "name": "Devonport"
+    },
+    {
+        "id": 796,
+        "coordinates_wkt": "POINT (147.3358068 -42.88027778)",
+        "name": "Hobart"
+    },
+    {
+        "id": 797,
+        "coordinates_wkt": "POINT (4.293757362 51.29777778)",
+        "name": "Antwerpen"
+    },
+    {
+        "id": 798,
+        "coordinates_wkt": "POINT (27.88863369 43.19444444)",
+        "name": "Varna"
+    },
+    {
+        "id": 799,
+        "coordinates_wkt": "POINT (-88.20194346 17.47972222)",
+        "name": "Belize City"
+    },
+    {
+        "id": 800,
+        "coordinates_wkt": "POINT (-64.77638398 32.29111111)",
+        "name": "Hamilton"
+    },
+    {
+        "id": 801,
+        "coordinates_wkt": "POINT (-48.48474676 -1.451666667)",
+        "name": "Belem"
+    },
+    {
+        "id": 802,
+        "coordinates_wkt": "POINT (-48.51914016 -25.50083333)",
+        "name": "Paranagua"
+    },
+    {
+        "id": 803,
+        "coordinates_wkt": "POINT (-51.22408716 -30.0175)",
+        "name": "Porto Alegre"
+    },
+    {
+        "id": 804,
+        "coordinates_wkt": "POINT (-34.86896349 -8.053611111)",
+        "name": "Recife"
+    },
+    {
+        "id": 805,
+        "coordinates_wkt": "POINT (-38.50477032 -12.95861111)",
+        "name": "Salvador"
+    },
+    {
+        "id": 806,
+        "coordinates_wkt": "POINT (-46.30053004 -23.96888889)",
+        "name": "Santos"
+    },
+    {
+        "id": 807,
+        "coordinates_wkt": "POINT (-63.11896349 46.23166667)",
+        "name": "Charlottetown"
+    },
+    {
+        "id": 808,
+        "coordinates_wkt": "POINT (-63.57444052 44.65694444)",
+        "name": "Halifax"
+    },
+    {
+        "id": 809,
+        "coordinates_wkt": "POINT (-123.926384 49.16944444)",
+        "name": "Nanaimo"
+    },
+    {
+        "id": 810,
+        "coordinates_wkt": "POINT (-71.2090106 46.80583333)",
+        "name": "Quebec"
+    },
+    {
+        "id": 811,
+        "coordinates_wkt": "POINT (-123.4065371 48.43111111)",
+        "name": "Victoria"
+    },
+    {
+        "id": 812,
+        "coordinates_wkt": "POINT (-130.3370436 54.30972222)",
+        "name": "Prince Rupert"
+    },
+    {
+        "id": 813,
+        "coordinates_wkt": "POINT (-66.05989399 45.26777778)",
+        "name": "Saint-John"
+    },
+    {
+        "id": 814,
+        "coordinates_wkt": "POINT (-70.40371025 -23.65027778)",
+        "name": "Antofagasta"
+    },
+    {
+        "id": 815,
+        "coordinates_wkt": "POINT (-70.15176678 -20.20277778)",
+        "name": "Iquique"
+    },
+    {
+        "id": 816,
+        "coordinates_wkt": "POINT (-72.95441696 -41.48361111)",
+        "name": "Puerto Montt"
+    },
+    {
+        "id": 817,
+        "coordinates_wkt": "POINT (110.2749706 20.02777778)",
+        "name": "Haikou"
+    },
+    {
+        "id": 818,
+        "coordinates_wkt": "POINT (121.5533569 29.86666667)",
+        "name": "Ningbo"
+    },
+    {
+        "id": 819,
+        "coordinates_wkt": "POINT (118.0200236 24.45)",
+        "name": "Xiamen"
+    },
+    {
+        "id": 820,
+        "coordinates_wkt": "POINT (-3.966666667 5.233055556)",
+        "name": "Abidjan"
+    },
+    {
+        "id": 821,
+        "coordinates_wkt": "POINT (9.685630153 4.055)",
+        "name": "Douala"
+    },
+    {
+        "id": 822,
+        "coordinates_wkt": "POINT (11.82691402 -4.784444444)",
+        "name": "Pointe Noire"
+    },
+    {
+        "id": 823,
+        "coordinates_wkt": "POINT (-74.75618375 10.96722222)",
+        "name": "Barranquilla"
+    },
+    {
+        "id": 824,
+        "coordinates_wkt": "POINT (43.24322733 -11.70138889)",
+        "name": "Moroni"
+    },
+    {
+        "id": 825,
+        "coordinates_wkt": "POINT (-82.75600707 23.00638889)",
+        "name": "Mariel"
+    },
+    {
+        "id": 826,
+        "coordinates_wkt": "POINT (33.6393404 34.92416667)",
+        "name": "Larnaca"
+    },
+    {
+        "id": 827,
+        "coordinates_wkt": "POINT (33.01772674 34.65)",
+        "name": "Limassol"
+    },
+    {
+        "id": 828,
+        "coordinates_wkt": "POINT (8.751060071 53.0975)",
+        "name": "Bremen"
+    },
+    {
+        "id": 829,
+        "coordinates_wkt": "POINT (9.958480565 53.52472222)",
+        "name": "Hamburg"
+    },
+    {
+        "id": 830,
+        "coordinates_wkt": "POINT (43.13563015 11.60194444)",
+        "name": "Djibouti"
+    },
+    {
+        "id": 831,
+        "coordinates_wkt": "POINT (10.00530035 57.06111111)",
+        "name": "Aalborg"
+    },
+    {
+        "id": 832,
+        "coordinates_wkt": "POINT (9.74057715 55.55805556)",
+        "name": "Fredericia"
+    },
+    {
+        "id": 833,
+        "coordinates_wkt": "POINT (-0.48828033 38.33527778)",
+        "name": "Alicante"
+    },
+    {
+        "id": 834,
+        "coordinates_wkt": "POINT (-3.026914016 43.3425)",
+        "name": "Bilbao"
+    },
+    {
+        "id": 835,
+        "coordinates_wkt": "POINT (-0.318433451 39.44416667)",
+        "name": "Valencia"
+    },
+    {
+        "id": 836,
+        "coordinates_wkt": "POINT (-60.07073027 -51.95555556)",
+        "name": "Fox Bay"
+    },
+    {
+        "id": 837,
+        "coordinates_wkt": "POINT (8.738810365 41.92)",
+        "name": "Ajaccio"
+    },
+    {
+        "id": 838,
+        "coordinates_wkt": "POINT (9.451943463 42.7)",
+        "name": "Bastia"
+    },
+    {
+        "id": 839,
+        "coordinates_wkt": "POINT (-0.553180212 44.86527778)",
+        "name": "Bordeaux"
+    },
+    {
+        "id": 840,
+        "coordinates_wkt": "POINT (1.850176678 50.96583333)",
+        "name": "Calais"
+    },
+    {
+        "id": 841,
+        "coordinates_wkt": "POINT (2.170906949 51.02166667)",
+        "name": "Dunkerque"
+    },
+    {
+        "id": 842,
+        "coordinates_wkt": "POINT (0.235100118 49.42222222)",
+        "name": "Honfleur"
+    },
+    {
+        "id": 843,
+        "coordinates_wkt": "POINT (9.43368669 0.400833333)",
+        "name": "Libreville"
+    },
+    {
+        "id": 844,
+        "coordinates_wkt": "POINT (8.785276796 -0.711944444)",
+        "name": "Port Gentil"
+    },
+    {
+        "id": 845,
+        "coordinates_wkt": "POINT (-5.891107185 54.62055556)",
+        "name": "Belfast"
+    },
+    {
+        "id": 846,
+        "coordinates_wkt": "POINT (1.322143698 51.12083333)",
+        "name": "Dover"
+    },
+    {
+        "id": 847,
+        "coordinates_wkt": "POINT (-4.234746761 57.48666667)",
+        "name": "Inverness"
+    },
+    {
+        "id": 848,
+        "coordinates_wkt": "POINT (-1.738457008 4.884166667)",
+        "name": "Takoradi"
+    },
+    {
+        "id": 849,
+        "coordinates_wkt": "POINT (-61.72709069 15.99638889)",
+        "name": "Basse-Terre"
+    },
+    {
+        "id": 850,
+        "coordinates_wkt": "POINT (-61.53845701 16.23388889)",
+        "name": "Pointe-a-Pitre"
+    },
+    {
+        "id": 851,
+        "coordinates_wkt": "POINT (-16.57037691 13.44444444)",
+        "name": "Banjul"
+    },
+    {
+        "id": 852,
+        "coordinates_wkt": "POINT (9.738103651 1.824166667)",
+        "name": "Bata"
+    },
+    {
+        "id": 853,
+        "coordinates_wkt": "POINT (25.14110718 35.34555556)",
+        "name": "Iraklion"
+    },
+    {
+        "id": 854,
+        "coordinates_wkt": "POINT (22.91772674 40.635)",
+        "name": "Thessaloniki"
+    },
+    {
+        "id": 855,
+        "coordinates_wkt": "POINT (-52.33616019 4.935277778)",
+        "name": "Cayenne"
+    },
+    {
+        "id": 856,
+        "coordinates_wkt": "POINT (-52.62426384 5.158888889)",
+        "name": "Kourou"
+    },
+    {
+        "id": 857,
+        "coordinates_wkt": "POINT (-58.1671967 6.819444444)",
+        "name": "Georgetown"
+    },
+    {
+        "id": 858,
+        "coordinates_wkt": "POINT (-87.94022379 15.83333333)",
+        "name": "Puerto Cortes"
+    },
+    {
+        "id": 859,
+        "coordinates_wkt": "POINT (15.21931684 44.1175)",
+        "name": "Zadar"
+    },
+    {
+        "id": 860,
+        "coordinates_wkt": "POINT (113.9166667 -7.616666667)",
+        "name": "Surabaya"
+    },
+    {
+        "id": 861,
+        "coordinates_wkt": "POINT (124.8258539 1.481944444)",
+        "name": "Manado"
+    },
+    {
+        "id": 862,
+        "coordinates_wkt": "POINT (117.2166667 -1.05)",
+        "name": "Senipah"
+    },
+    {
+        "id": 863,
+        "coordinates_wkt": "POINT (72.20600707 21.77)",
+        "name": "Bhavnagar"
+    },
+    {
+        "id": 864,
+        "coordinates_wkt": "POINT (83.28722026 17.69333333)",
+        "name": "Visakhapatnam"
+    },
+    {
+        "id": 865,
+        "coordinates_wkt": "POINT (-8.633333333 52.66277778)",
+        "name": "Limerick"
+    },
+    {
+        "id": 866,
+        "coordinates_wkt": "POINT (56.20424028 27.14083333)",
+        "name": "Bandar Abbas"
+    },
+    {
+        "id": 867,
+        "coordinates_wkt": "POINT (-21.83792697 64.14833333)",
+        "name": "Reykjavik"
+    },
+    {
+        "id": 868,
+        "coordinates_wkt": "POINT (-14.00424028 65.26277778)",
+        "name": "Seydisfjordur"
+    },
+    {
+        "id": 869,
+        "coordinates_wkt": "POINT (13.75424028 45.645)",
+        "name": "Trieste"
+    },
+    {
+        "id": 870,
+        "coordinates_wkt": "POINT (132.421437 34.36527778)",
+        "name": "Hiroshima"
+    },
+    {
+        "id": 871,
+        "coordinates_wkt": "POINT (135.2381037 34.68416667)",
+        "name": "Kobe"
+    },
+    {
+        "id": 872,
+        "coordinates_wkt": "POINT (129.8595406 32.74027778)",
+        "name": "Nagasaki"
+    },
+    {
+        "id": 873,
+        "coordinates_wkt": "POINT (141.0166667 43.19694444)",
+        "name": "Otaru"
+    },
+    {
+        "id": 874,
+        "coordinates_wkt": "POINT (139.788457 35.62472222)",
+        "name": "Tokyo"
+    },
+    {
+        "id": 875,
+        "coordinates_wkt": "POINT (-10.79375736 6.345555556)",
+        "name": "Monrovia"
+    },
+    {
+        "id": 876,
+        "coordinates_wkt": "POINT (79.85017668 6.951388889)",
+        "name": "Colombo"
+    },
+    {
+        "id": 877,
+        "coordinates_wkt": "POINT (-7.600176678 33.60888889)",
+        "name": "Casablanca"
+    },
+    {
+        "id": 878,
+        "coordinates_wkt": "POINT (7.420906949 43.73194444)",
+        "name": "Monaco"
+    },
+    {
+        "id": 879,
+        "coordinates_wkt": "POINT (-99.9024735 16.84444444)",
+        "name": "Acapulco"
+    },
+    {
+        "id": 880,
+        "coordinates_wkt": "POINT (-106.393404 23.19222222)",
+        "name": "Mazatlan"
+    },
+    {
+        "id": 881,
+        "coordinates_wkt": "POINT (-97.83368669 22.23694444)",
+        "name": "Tampico"
+    },
+    {
+        "id": 882,
+        "coordinates_wkt": "POINT (34.83351001 -19.81916667)",
+        "name": "Beira"
+    },
+    {
+        "id": 883,
+        "coordinates_wkt": "POINT (32.55706714 -25.97277778)",
+        "name": "Maputo"
+    },
+    {
+        "id": 884,
+        "coordinates_wkt": "POINT (-16.02143698 18.03527778)",
+        "name": "Nouakchott"
+    },
+    {
+        "id": 885,
+        "coordinates_wkt": "POINT (-62.21984688 16.70333333)",
+        "name": "Plymouth"
+    },
+    {
+        "id": 886,
+        "coordinates_wkt": "POINT (-61.05689046 14.59916667)",
+        "name": "Fort-de-France"
+    },
+    {
+        "id": 887,
+        "coordinates_wkt": "POINT (166.4258539 -22.25972222)",
+        "name": "Noumea"
+    },
+    {
+        "id": 888,
+        "coordinates_wkt": "POINT (7.003180212 4.769166667)",
+        "name": "Port Harcourt"
+    },
+    {
+        "id": 889,
+        "coordinates_wkt": "POINT (-87.16914016 12.48194444)",
+        "name": "Corinto"
+    },
+    {
+        "id": 890,
+        "coordinates_wkt": "POINT (4.292873969 51.92722222)",
+        "name": "Rotterdam"
+    },
+    {
+        "id": 891,
+        "coordinates_wkt": "POINT (5.3196702 60.39694444)",
+        "name": "Bergen"
+    },
+    {
+        "id": 892,
+        "coordinates_wkt": "POINT (18.96878681 69.65583333)",
+        "name": "Tromso"
+    },
+    {
+        "id": 893,
+        "coordinates_wkt": "POINT (10.38898704 63.43777778)",
+        "name": "Trondheim"
+    },
+    {
+        "id": 894,
+        "coordinates_wkt": "POINT (173.271967 -41.25972222)",
+        "name": "Nelson"
+    },
+    {
+        "id": 895,
+        "coordinates_wkt": "POINT (58.4090106 23.60666667)",
+        "name": "Muscat"
+    },
+    {
+        "id": 896,
+        "coordinates_wkt": "POINT (123.9226737 10.30638889)",
+        "name": "Cebu"
+    },
+    {
+        "id": 897,
+        "coordinates_wkt": "POINT (122.071437 6.902777778)",
+        "name": "Zamboanga"
+    },
+    {
+        "id": 898,
+        "coordinates_wkt": "POINT (147.1510601 -9.467222222)",
+        "name": "Port Moresby"
+    },
+    {
+        "id": 899,
+        "coordinates_wkt": "POINT (143.65053 -3.57)",
+        "name": "Wewak"
+    },
+    {
+        "id": 900,
+        "coordinates_wkt": "POINT (-8.61861013 41.14111111)",
+        "name": "Porto"
+    },
+    {
+        "id": 901,
+        "coordinates_wkt": "POINT (-25.65883392 37.73694444)",
+        "name": "Ponta Delgada"
+    },
+    {
+        "id": 902,
+        "coordinates_wkt": "POINT (-149.5696702 -17.53111111)",
+        "name": "Papeete"
+    },
+    {
+        "id": 903,
+        "coordinates_wkt": "POINT (51.55565371 25.29805556)",
+        "name": "Doha"
+    },
+    {
+        "id": 904,
+        "coordinates_wkt": "POINT (20.45547703 54.7)",
+        "name": "Kaliningrad"
+    },
+    {
+        "id": 905,
+        "coordinates_wkt": "POINT (131.8877503 43.09444444)",
+        "name": "Vladivostok"
+    },
+    {
+        "id": 906,
+        "coordinates_wkt": "POINT (28.72638398 60.705)",
+        "name": "Vyborg"
+    },
+    {
+        "id": 907,
+        "coordinates_wkt": "POINT (37.22161366 19.61583333)",
+        "name": "Port Sudan"
+    },
+    {
+        "id": 908,
+        "coordinates_wkt": "POINT (45.34093051 2.028888889)",
+        "name": "Mogadishu"
+    },
+    {
+        "id": 909,
+        "coordinates_wkt": "POINT (-55.13898704 5.82)",
+        "name": "Paramaribo"
+    },
+    {
+        "id": 910,
+        "coordinates_wkt": "POINT (11.87002356 57.68916667)",
+        "name": "Goteborg"
+    },
+    {
+        "id": 911,
+        "coordinates_wkt": "POINT (22.15830389 65.57888889)",
+        "name": "Lulea"
+    },
+    {
+        "id": 912,
+        "coordinates_wkt": "POINT (16.22567727 58.61027778)",
+        "name": "Norrkoping"
+    },
+    {
+        "id": 913,
+        "coordinates_wkt": "POINT (1.284923439 6.139166667)",
+        "name": "Lome"
+    },
+    {
+        "id": 914,
+        "coordinates_wkt": "POINT (27.15388693 38.44388889)",
+        "name": "Izmir"
+    },
+    {
+        "id": 915,
+        "coordinates_wkt": "POINT (120.3070671 22.56527778)",
+        "name": "Kaohsiung"
+    },
+    {
+        "id": 916,
+        "coordinates_wkt": "POINT (120.5038869 24.25833333)",
+        "name": "Taichung"
+    },
+    {
+        "id": 917,
+        "coordinates_wkt": "POINT (30.73704358 46.50111111)",
+        "name": "Odessa"
+    },
+    {
+        "id": 918,
+        "coordinates_wkt": "POINT (-56.20424028 -34.90055556)",
+        "name": "Montevideo"
+    },
+    {
+        "id": 919,
+        "coordinates_wkt": "POINT (-134.6700236 58.37916667)",
+        "name": "Juneau"
+    },
+    {
+        "id": 920,
+        "coordinates_wkt": "POINT (-165.4251472 64.49833333)",
+        "name": "Nome"
+    },
+    {
+        "id": 921,
+        "coordinates_wkt": "POINT (-155.0686101 19.73333333)",
+        "name": "Hilo"
+    },
+    {
+        "id": 922,
+        "coordinates_wkt": "POINT (-122.5003534 48.74055556)",
+        "name": "Bellingham"
+    },
+    {
+        "id": 923,
+        "coordinates_wkt": "POINT (-95.20212014 29.73916667)",
+        "name": "Houston"
+    },
+    {
+        "id": 924,
+        "coordinates_wkt": "POINT (-97.38457008 25.95722222)",
+        "name": "Brownsville"
+    },
+    {
+        "id": 925,
+        "coordinates_wkt": "POINT (-122.96702 46.11277778)",
+        "name": "Longview"
+    },
+    {
+        "id": 926,
+        "coordinates_wkt": "POINT (-61.24287397 13.16916667)",
+        "name": "Kingstown"
+    },
+    {
+        "id": 927,
+        "coordinates_wkt": "POINT (-66.94022379 10.60277778)",
+        "name": "La Guaira"
+    },
+    {
+        "id": 928,
+        "coordinates_wkt": "POINT (-71.58828033 10.68361111)",
+        "name": "Maracaibo"
+    },
+    {
+        "id": 929,
+        "coordinates_wkt": "POINT (108.2232038 16.08222222)",
+        "name": "Da Nang"
+    },
+    {
+        "id": 930,
+        "coordinates_wkt": "POINT (168.3058304 -17.74722222)",
+        "name": "Port Vila"
+    },
+    {
+        "id": 931,
+        "coordinates_wkt": "POINT (-171.7579505 -13.82833333)",
+        "name": "Apia"
+    },
+    {
+        "id": 932,
+        "coordinates_wkt": "POINT (42.9352768 14.83361111)",
+        "name": "Hodeidah"
+    },
+    {
+        "id": 933,
+        "coordinates_wkt": "POINT (-75.7 45.43)",
+        "name": "Ottawa"
+    },
+    {
+        "id": 934,
+        "coordinates_wkt": "POINT (-78.88 42.88)",
+        "name": "Buffalo"
+    },
+    {
+        "id": 935,
+        "coordinates_wkt": "POINT (-81.71 41.5)",
+        "name": "Cleveland"
+    },
+    {
+        "id": 936,
+        "coordinates_wkt": "POINT (-88.01 44.51)",
+        "name": "Green Bay"
+    },
+    {
+        "id": 937,
+        "coordinates_wkt": "POINT (-92.1 46.76)",
+        "name": "Duluth"
+    },
+    {
+        "id": 938,
+        "coordinates_wkt": "POINT (-124.18 40.8)",
+        "name": "Eureka"
+    },
+    {
+        "id": 939,
+        "coordinates_wkt": "POINT (13.25088339 -8.783888889)",
+        "name": "Luanda"
+    },
+    {
+        "id": 940,
+        "coordinates_wkt": "POINT (-68.27355713 12.14833333)",
+        "name": "Kralendijk, Bonaire"
+    },
+    {
+        "id": 941,
+        "coordinates_wkt": "POINT (-63.04375736 18.01444444)",
+        "name": "Philipsburg"
+    },
+    {
+        "id": 942,
+        "coordinates_wkt": "POINT (138.5079505 -34.79916667)",
+        "name": "Adelaide"
+    },
+    {
+        "id": 943,
+        "coordinates_wkt": "POINT (153.1684335 -27.3825)",
+        "name": "Brisbane"
+    },
+    {
+        "id": 944,
+        "coordinates_wkt": "POINT (118.5732038 -20.3175)",
+        "name": "Port Hedland"
+    },
+    {
+        "id": 945,
+        "coordinates_wkt": "POINT (91.82585395 22.26888889)",
+        "name": "Chittagong"
+    },
+    {
+        "id": 946,
+        "coordinates_wkt": "POINT (-59.62408716 13.10694444)",
+        "name": "Bridgetown"
+    },
+    {
+        "id": 947,
+        "coordinates_wkt": "POINT (-73.5246172 45.54361111)",
+        "name": "Montreal"
+    },
+    {
+        "id": 948,
+        "coordinates_wkt": "POINT (-70.90477032 -53.16833333)",
+        "name": "Punta Arenas"
+    },
+    {
+        "id": 949,
+        "coordinates_wkt": "POINT (-73.22656066 -39.81666667)",
+        "name": "Valdivia"
+    },
+    {
+        "id": 950,
+        "coordinates_wkt": "POINT (121.6503534 38.93361111)",
+        "name": "Dalian"
+    },
+    {
+        "id": 951,
+        "coordinates_wkt": "POINT (119.30053 26.0475)",
+        "name": "Fuzhou"
+    },
+    {
+        "id": 952,
+        "coordinates_wkt": "POINT (120.31702 36.09583333)",
+        "name": "Qingdao"
+    },
+    {
+        "id": 953,
+        "coordinates_wkt": "POINT (121.4872203 31.22194444)",
+        "name": "Shanghai"
+    },
+    {
+        "id": 954,
+        "coordinates_wkt": "POINT (116.7040636 23.35472222)",
+        "name": "Shantou"
+    },
+    {
+        "id": 955,
+        "coordinates_wkt": "POINT (-84.80424028 9.981666667)",
+        "name": "Puntarenas"
+    },
+    {
+        "id": 956,
+        "coordinates_wkt": "POINT (10.15689046 54.33083333)",
+        "name": "Kiel"
+    },
+    {
+        "id": 957,
+        "coordinates_wkt": "POINT (-61.38598351 15.29638889)",
+        "name": "Roseau"
+    },
+    {
+        "id": 958,
+        "coordinates_wkt": "POINT (-69.87585395 18.47527778)",
+        "name": "Santo Domingo"
+    },
+    {
+        "id": 959,
+        "coordinates_wkt": "POINT (-0.98598351 37.58944444)",
+        "name": "Cartagena"
+    },
+    {
+        "id": 960,
+        "coordinates_wkt": "POINT (-8.726207303 42.2425)",
+        "name": "Vigo"
+    },
+    {
+        "id": 961,
+        "coordinates_wkt": "POINT (-16.22656066 28.47472222)",
+        "name": "Santa Cruz de Tenerife"
+    },
+    {
+        "id": 962,
+        "coordinates_wkt": "POINT (24.69075383 59.46)",
+        "name": "Tallinn"
+    },
+    {
+        "id": 963,
+        "coordinates_wkt": "POINT (178.4210836 -18.1325)",
+        "name": "Suva"
+    },
+    {
+        "id": 964,
+        "coordinates_wkt": "POINT (6.633333333 43.27055556)",
+        "name": "Saint-Tropez"
+    },
+    {
+        "id": 965,
+        "coordinates_wkt": "POINT (-4.303180212 55.86305556)",
+        "name": "Glasgow"
+    },
+    {
+        "id": 966,
+        "coordinates_wkt": "POINT (-1.424440518 50.9025)",
+        "name": "Southampton"
+    },
+    {
+        "id": 967,
+        "coordinates_wkt": "POINT (-5.357243816 36.13694444)",
+        "name": "Gibraltar"
+    },
+    {
+        "id": 968,
+        "coordinates_wkt": "POINT (-13.70989399 9.516388889)",
+        "name": "Conakry"
+    },
+    {
+        "id": 969,
+        "coordinates_wkt": "POINT (-15.57267373 11.85833333)",
+        "name": "Bissau"
+    },
+    {
+        "id": 970,
+        "coordinates_wkt": "POINT (24.00971731 35.51805556)",
+        "name": "Canea"
+    },
+    {
+        "id": 971,
+        "coordinates_wkt": "POINT (21.31861013 37.64638889)",
+        "name": "Katakolon"
+    },
+    {
+        "id": 972,
+        "coordinates_wkt": "POINT (-90.84128386 13.91555556)",
+        "name": "San Jose"
+    },
+    {
+        "id": 973,
+        "coordinates_wkt": "POINT (114.1561837 22.32111111)",
+        "name": "Hong Kong"
+    },
+    {
+        "id": 974,
+        "coordinates_wkt": "POINT (-72.33969376 18.56583333)",
+        "name": "Port-au-Prince"
+    },
+    {
+        "id": 975,
+        "coordinates_wkt": "POINT (112.7239105 -7.206388889)",
+        "name": "Surabaya"
+    },
+    {
+        "id": 976,
+        "coordinates_wkt": "POINT (-6.206007067 53.34444444)",
+        "name": "Dublin"
+    },
+    {
+        "id": 977,
+        "coordinates_wkt": "POINT (-7.118786808 52.26638889)",
+        "name": "Waterford"
+    },
+    {
+        "id": 978,
+        "coordinates_wkt": "POINT (35.01825677 32.8225)",
+        "name": "Haifa"
+    },
+    {
+        "id": 979,
+        "coordinates_wkt": "POINT (10.30194346 43.55583333)",
+        "name": "Livorno"
+    },
+    {
+        "id": 980,
+        "coordinates_wkt": "POINT (13.93810365 40.74527778)",
+        "name": "Ischia"
+    },
+    {
+        "id": 981,
+        "coordinates_wkt": "POINT (-76.82479388 17.98166667)",
+        "name": "Kingston"
+    },
+    {
+        "id": 982,
+        "coordinates_wkt": "POINT (130.8542403 33.9225)",
+        "name": "Kitakyushu"
+    },
+    {
+        "id": 983,
+        "coordinates_wkt": "POINT (39.6221437 -4.053055556)",
+        "name": "Mombasa"
+    },
+    {
+        "id": 984,
+        "coordinates_wkt": "POINT (104.9209069 11.58305556)",
+        "name": "Phnom Penh"
+    },
+    {
+        "id": 985,
+        "coordinates_wkt": "POINT (35.51949352 33.905)",
+        "name": "Beirut"
+    },
+    {
+        "id": 986,
+        "coordinates_wkt": "POINT (73.50706714 4.175)",
+        "name": "Male"
+    },
+    {
+        "id": 987,
+        "coordinates_wkt": "POINT (-96.13368669 19.20833333)",
+        "name": "Veracruz"
+    },
+    {
+        "id": 988,
+        "coordinates_wkt": "POINT (96.16878681 16.76583333)",
+        "name": "Yangon"
+    },
+    {
+        "id": 989,
+        "coordinates_wkt": "POINT (174.7898704 -41.2775)",
+        "name": "Wellington"
+    },
+    {
+        "id": 990,
+        "coordinates_wkt": "POINT (14.58580683 53.43055556)",
+        "name": "Szczecin"
+    },
+    {
+        "id": 991,
+        "coordinates_wkt": "POINT (39.1590106 21.45861111)",
+        "name": "Jeddah"
+    },
+    {
+        "id": 992,
+        "coordinates_wkt": "POINT (-17.42514723 14.68222222)",
+        "name": "Dakar"
+    },
+    {
+        "id": 993,
+        "coordinates_wkt": "POINT (103.7221437 1.292777778)",
+        "name": "Singapore"
+    },
+    {
+        "id": 994,
+        "coordinates_wkt": "POINT (-13.20795053 8.494166667)",
+        "name": "Freetown"
+    },
+    {
+        "id": 995,
+        "coordinates_wkt": "POINT (18.10936396 59.335)",
+        "name": "Stockholm"
+    },
+    {
+        "id": 996,
+        "coordinates_wkt": "POINT (100.5691402 13.60694444)",
+        "name": "Bangkok"
+    },
+    {
+        "id": 997,
+        "coordinates_wkt": "POINT (26.52196702 40.26472222)",
+        "name": "Canakkale"
+    },
+    {
+        "id": 998,
+        "coordinates_wkt": "POINT (-149.8877503 61.23555556)",
+        "name": "Anchorage"
+    },
+    {
+        "id": 999,
+        "coordinates_wkt": "POINT (-118.2007067 33.74888889)",
+        "name": "Long Beach"
+    },
+    {
+        "id": 1000,
+        "coordinates_wkt": "POINT (-122.3012367 37.79944444)",
+        "name": "Oakland"
+    },
+    {
+        "id": 1001,
+        "coordinates_wkt": "POINT (-81.55918728 30.38083333)",
+        "name": "Jacksonville"
+    },
+    {
+        "id": 1002,
+        "coordinates_wkt": "POINT (-75.13457008 39.89527778)",
+        "name": "Philadelphia"
+    },
+    {
+        "id": 1003,
+        "coordinates_wkt": "POINT (-79.92355713 32.82222222)",
+        "name": "Charleston"
+    },
+    {
+        "id": 1004,
+        "coordinates_wkt": "POINT (-71.32444052 41.4825)",
+        "name": "Newport"
+    },
+    {
+        "id": 1005,
+        "coordinates_wkt": "POINT (106.7217903 10.79388889)",
+        "name": "Ho Chi Minh City"
+    },
+    {
+        "id": 1006,
+        "coordinates_wkt": "POINT (44.98969376 12.79555556)",
+        "name": "Aden"
+    },
+    {
+        "id": 1007,
+        "coordinates_wkt": "POINT (31.02338045 -29.88111111)",
+        "name": "Durban"
+    },
+    {
+        "id": 1008,
+        "coordinates_wkt": "POINT (25.6352768 -33.96138889)",
+        "name": "Port Elizabeth"
+    },
+    {
+        "id": 1009,
+        "coordinates_wkt": "POINT (25.6352768 -33.96138889)",
+        "name": "Port Elizabeth"
+    },
+    {
+        "id": 1010,
+        "coordinates_wkt": "POINT (-83.03 42.33)",
+        "name": "Detroit"
+    },
+    {
+        "id": 1011,
+        "coordinates_wkt": "POINT (-90.16 35.06)",
+        "name": "Port Of Memphis"
+    },
+    {
+        "id": 1012,
+        "coordinates_wkt": "POINT (-90.2 38.71)",
+        "name": "Tri-City Port"
+    },
+    {
+        "id": 1013,
+        "coordinates_wkt": "POINT (24.96 60.16)",
+        "name": "Helsinki"
+    },
+    {
+        "id": 1014,
+        "coordinates_wkt": "POINT (30.3 59.93)",
+        "name": "Sankt-Peterburg"
+    },
+    {
+        "id": 1015,
+        "coordinates_wkt": "POINT (-70.03881037 12.52)",
+        "name": "Oranjestad"
+    },
+    {
+        "id": 1016,
+        "coordinates_wkt": "POINT (55.26931684 25.26722222)",
+        "name": "Dubai"
+    },
+    {
+        "id": 1017,
+        "coordinates_wkt": "POINT (-58.3696702 -34.59916667)",
+        "name": "Buenos Aires"
+    },
+    {
+        "id": 1018,
+        "coordinates_wkt": "POINT (130.854947 -12.47027778)",
+        "name": "Darwin"
+    },
+    {
+        "id": 1019,
+        "coordinates_wkt": "POINT (144.9171967 -37.83277778)",
+        "name": "Melbourne"
+    },
+    {
+        "id": 1020,
+        "coordinates_wkt": "POINT (115.855477 -31.96527778)",
+        "name": "Perth"
+    },
+    {
+        "id": 1021,
+        "coordinates_wkt": "POINT (151.1891637 -33.86222222)",
+        "name": "Sydney"
+    },
+    {
+        "id": 1022,
+        "coordinates_wkt": "POINT (2.422320377 6.346666667)",
+        "name": "Cotonou"
+    },
+    {
+        "id": 1023,
+        "coordinates_wkt": "POINT (-77.32126031 25.07666667)",
+        "name": "Nassau"
+    },
+    {
+        "id": 1024,
+        "coordinates_wkt": "POINT (-43.1918139 -22.88305556)",
+        "name": "Rio de Janeiro"
+    },
+    {
+        "id": 1025,
+        "coordinates_wkt": "POINT (-123.071437 49.29777778)",
+        "name": "Vancouver"
+    },
+    {
+        "id": 1026,
+        "coordinates_wkt": "POINT (-64.70371025 44.04333333)",
+        "name": "Liverpool"
+    },
+    {
+        "id": 1027,
+        "coordinates_wkt": "POINT (-71.61914016 -33.03527778)",
+        "name": "Valparaiso"
+    },
+    {
+        "id": 1028,
+        "coordinates_wkt": "POINT (113.409364 23.09416667)",
+        "name": "Guangzhou"
+    },
+    {
+        "id": 1029,
+        "coordinates_wkt": "POINT (117.4565371 39.00944444)",
+        "name": "Tianjin"
+    },
+    {
+        "id": 1030,
+        "coordinates_wkt": "POINT (-4.021260306 5.283333333)",
+        "name": "Abidjan"
+    },
+    {
+        "id": 1031,
+        "coordinates_wkt": "POINT (8.553003534 53.56361111)",
+        "name": "Bremerhaven"
+    },
+    {
+        "id": 1032,
+        "coordinates_wkt": "POINT (12.11790342 54.1525)",
+        "name": "Rostock"
+    },
+    {
+        "id": 1033,
+        "coordinates_wkt": "POINT (12.58404005 55.72611111)",
+        "name": "Tuborg"
+    },
+    {
+        "id": 1034,
+        "coordinates_wkt": "POINT (-79.9024735 -2.284166667)",
+        "name": "Guayaquil"
+    },
+    {
+        "id": 1035,
+        "coordinates_wkt": "POINT (32.30600707 31.25333333)",
+        "name": "Port Said"
+    },
+    {
+        "id": 1036,
+        "coordinates_wkt": "POINT (2.168786808 41.35472222)",
+        "name": "Barcelona"
+    },
+    {
+        "id": 1037,
+        "coordinates_wkt": "POINT (-4.418256773 36.70944444)",
+        "name": "Malaga"
+    },
+    {
+        "id": 1038,
+        "coordinates_wkt": "POINT (2.62532391 39.55111111)",
+        "name": "Palma de Mallorca"
+    },
+    {
+        "id": 1039,
+        "coordinates_wkt": "POINT (0.173733804 49.46694444)",
+        "name": "Le Havre"
+    },
+    {
+        "id": 1040,
+        "coordinates_wkt": "POINT (5.341283863 43.32944444)",
+        "name": "Marseille"
+    },
+    {
+        "id": 1041,
+        "coordinates_wkt": "POINT (7.285630153 43.69388889)",
+        "name": "Nice"
+    },
+    {
+        "id": 1042,
+        "coordinates_wkt": "POINT (-0.067196702 51.50277778)",
+        "name": "London"
+    },
+    {
+        "id": 1043,
+        "coordinates_wkt": "POINT (22.56755006 36.76)",
+        "name": "Gythion"
+    },
+    {
+        "id": 1044,
+        "coordinates_wkt": "POINT (28.23351001 36.44361111)",
+        "name": "Rhodes"
+    },
+    {
+        "id": 1045,
+        "coordinates_wkt": "POINT (18.07638398 42.66)",
+        "name": "Dubrovnik"
+    },
+    {
+        "id": 1046,
+        "coordinates_wkt": "POINT (11.77567727 42.09888889)",
+        "name": "Civitavecchia"
+    },
+    {
+        "id": 1047,
+        "coordinates_wkt": "POINT (13.36984688 38.13083333)",
+        "name": "Palermo"
+    },
+    {
+        "id": 1048,
+        "coordinates_wkt": "POINT (8.489517079 44.31166667)",
+        "name": "Savona"
+    },
+    {
+        "id": 1049,
+        "coordinates_wkt": "POINT (12.24057715 45.45305556)",
+        "name": "Marghera"
+    },
+    {
+        "id": 1050,
+        "coordinates_wkt": "POINT (-77.93545347 18.4675)",
+        "name": "Montego Bay"
+    },
+    {
+        "id": 1051,
+        "coordinates_wkt": "POINT (135.4338634 34.63583333)",
+        "name": "Osaka"
+    },
+    {
+        "id": 1052,
+        "coordinates_wkt": "POINT (139.6673734 35.43638889)",
+        "name": "Yokohama"
+    },
+    {
+        "id": 1053,
+        "coordinates_wkt": "POINT (24.08810365 57.00777778)",
+        "name": "Riga"
+    },
+    {
+        "id": 1054,
+        "coordinates_wkt": "POINT (-109.9007067 22.88388889)",
+        "name": "Cabo San Lucas"
+    },
+    {
+        "id": 1055,
+        "coordinates_wkt": "POINT (14.54128386 35.82611111)",
+        "name": "Marsaxlokk"
+    },
+    {
+        "id": 1056,
+        "coordinates_wkt": "POINT (4.824087161 52.41305556)",
+        "name": "Amsterdam"
+    },
+    {
+        "id": 1057,
+        "coordinates_wkt": "POINT (10.73457008 59.89722222)",
+        "name": "Oslo"
+    },
+    {
+        "id": 1058,
+        "coordinates_wkt": "POINT (174.7694935 -36.83638889)",
+        "name": "Auckland"
+    },
+    {
+        "id": 1059,
+        "coordinates_wkt": "POINT (66.9737338 24.835)",
+        "name": "Karachi"
+    },
+    {
+        "id": 1060,
+        "coordinates_wkt": "POINT (-79.88510012 9.373333333)",
+        "name": "Colon"
+    },
+    {
+        "id": 1061,
+        "coordinates_wkt": "POINT (120.943404 14.52416667)",
+        "name": "Manila"
+    },
+    {
+        "id": 1062,
+        "coordinates_wkt": "POINT (-66.09128386 18.43611111)",
+        "name": "San Juan"
+    },
+    {
+        "id": 1063,
+        "coordinates_wkt": "POINT (28.993404 41.01277778)",
+        "name": "Istanbul"
+    },
+    {
+        "id": 1064,
+        "coordinates_wkt": "POINT (121.3746172 25.15194444)",
+        "name": "Taipei"
+    },
+    {
+        "id": 1065,
+        "coordinates_wkt": "POINT (39.293404 -6.834444444)",
+        "name": "Dar es Salaam"
+    },
+    {
+        "id": 1066,
+        "coordinates_wkt": "POINT (-88.03775029 30.71138889)",
+        "name": "Mobile"
+    },
+    {
+        "id": 1067,
+        "coordinates_wkt": "POINT (-118.2597173 33.73194444)",
+        "name": "Los Angeles"
+    },
+    {
+        "id": 1068,
+        "coordinates_wkt": "POINT (-117.1572438 32.68444444)",
+        "name": "San Diego"
+    },
+    {
+        "id": 1069,
+        "coordinates_wkt": "POINT (-122.4008834 37.78861111)",
+        "name": "San Francisco"
+    },
+    {
+        "id": 1070,
+        "coordinates_wkt": "POINT (-80.16702002 25.775)",
+        "name": "Miami"
+    },
+    {
+        "id": 1071,
+        "coordinates_wkt": "POINT (-82.43616019 27.93)",
+        "name": "Tampa"
+    },
+    {
+        "id": 1072,
+        "coordinates_wkt": "POINT (-157.8737338 21.30944444)",
+        "name": "Honolulu"
+    },
+    {
+        "id": 1073,
+        "coordinates_wkt": "POINT (-71.03545347 42.36361111)",
+        "name": "Boston"
+    },
+    {
+        "id": 1074,
+        "coordinates_wkt": "POINT (-76.55565371 39.2325)",
+        "name": "Baltimore"
+    },
+    {
+        "id": 1075,
+        "coordinates_wkt": "POINT (-74.02426384 40.68833333)",
+        "name": "New York"
+    },
+    {
+        "id": 1076,
+        "coordinates_wkt": "POINT (-94.81790342 29.30416667)",
+        "name": "Galveston"
+    },
+    {
+        "id": 1077,
+        "coordinates_wkt": "POINT (-76.29252061 36.90194444)",
+        "name": "Norfolk"
+    },
+    {
+        "id": 1078,
+        "coordinates_wkt": "POINT (-122.3597173 47.60222222)",
+        "name": "Seattle"
+    },
+    {
+        "id": 1079,
+        "coordinates_wkt": "POINT (18.4352768 -33.90916667)",
+        "name": "Cape Town"
+    },
+    {
+        "id": 1080,
+        "coordinates_wkt": "POINT (-79.38 43.61)",
+        "name": "Toronto"
+    },
+    {
+        "id": 1081,
+        "coordinates_wkt": "POINT (-87.6 41.88)",
+        "name": "Chicago"
+    }
+]

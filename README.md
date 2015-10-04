@@ -16,9 +16,9 @@ Free database of geographic place names and corresponding geospatial data
 
 ## Formats
 
- * [CSV](CSV/)
- * [JSON](JSON/)
- * [MySQL](MySQL/)
+ * [CSV](Distribution/CSV/)
+ * [JSON](Distribution/JSON/)
+ * [MySQL](Distribution/MySQL/)
 
 ## Contributing
 

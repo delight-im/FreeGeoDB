@@ -1,5 +1,9 @@
 # Working with Geospatial Data
 
+ * [mapshaper](https://github.com/mbloch/mapshaper)
+   * [Web interface](http://www.mapshaper.org/)
+ * [Natural Earth](http://www.naturalearthdata.com/)
+   * [Vector repository](https://github.com/nvkelso/natural-earth-vector)
  * [OpenStreetMap](https://www.openstreetmap.org/)
    * [Full downloads](http://planet.openstreetmap.org/)
    * [Extract downloads](http://download.geofabrik.de/)

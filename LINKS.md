@@ -1,4 +1,4 @@
-# Working with Geospatial Data
+# Links
 
  * [mapshaper](https://github.com/mbloch/mapshaper)
    * [Web interface](http://www.mapshaper.org/)

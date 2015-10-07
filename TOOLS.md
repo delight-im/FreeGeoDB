@@ -1,4 +1,8 @@
-# Links
+# Tools
+
+## Libraries and SDKs for this project
+
+## Working with geospatial data in general
 
  * [mapshaper](https://github.com/mbloch/mapshaper)
    * [Web interface](http://www.mapshaper.org/)

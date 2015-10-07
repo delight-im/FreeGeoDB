@@ -2,6 +2,9 @@
 
 ## Libraries and SDKs for this project
 
+ * Rails
+   * [heri/geo-db-api](https://github.com/heri/geo-db-api)
+
 ## Working with geospatial data in general
 
  * [mapshaper](https://github.com/mbloch/mapshaper)

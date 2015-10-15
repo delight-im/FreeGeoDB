@@ -56151,7 +56151,7 @@
         "country": "Finland",
         "country_iso_alpha3": "FIN",
         "region": "Eastern Uusimaa",
-        "time_zone": ""
+        "time_zone": "Europe\/Helsinki"
     },
     {
         "id": 4012,
@@ -75289,7 +75289,7 @@
         "country": "Finland",
         "country_iso_alpha3": "FIN",
         "region": "Western Finland",
-        "time_zone": ""
+        "time_zone": "Europe\/Helsinki"
     },
     {
         "id": 5379,

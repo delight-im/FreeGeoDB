@@ -47,7 +47,7 @@ All contributions are welcome! If you wish to contribute, please create an issue
 ## License
 
 ```
-Copyright 2015 delight.im <info@delight.im>
+Copyright (c) delight.im <info@delight.im>
 
 Except where otherwise noted, all content is licensed under a
 Creative Commons Attribution 4.0 International License.

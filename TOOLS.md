@@ -21,7 +21,7 @@
      * [Import to MySQL](https://github.com/oschrenk/osmosis-mysql)
    * [Nominatim](https://github.com/twain47/Nominatim) (search engine)
      * [Reverse geocoding](https://wiki.openstreetmap.org/wiki/Nominatim#Reverse_Geocoding_.2F_Address_lookup)
-     * [Installation](http://wiki.openstreetmap.org/wiki/Nominatim/Installation)
+     * [Installation](https://nominatim.org/release-docs/latest/admin/Installation/)
  * [Geonames](http://www.geonames.org/) (placename database)
    * [Downloads](http://download.geonames.org/export/dump/)
    * [Technical details](http://download.geonames.org/export/dump/readme.txt)
